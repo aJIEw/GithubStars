@@ -1,22 +1,20 @@
 ---
-我的 Github Star 的项目
+My Github Stars
 ---
 
 随着使用 Github 时间的增加，star 的项目也越来越多，所以把自己 star 过的项目整理分类还是挺有好处的，一是为了以后查找方便，二来也可以加深下印象。
 
-当需要寻找某方面资料的时候，首先扫一眼分类列表，或许正好可以找到对应的资料，而且那些偶然发现的项目也不会随着时间的推移而被我们遗忘。
+当需要寻找某方面资料的时候，首先扫一眼分类列表，或许正好可以找到对应的资料，而且那些偶然发现的项目也不会随着时间的推移而被我们遗忘。另外，我觉得这也是一种分享，如果每个人都把自己的 star 的项目分类，那么其他人就可以更方便地浏览，发现自己也感兴趣的内容。
 
-另外，我觉得这也是一种分享，如果每个人都把自己的 star 的项目分类，那么其他人就可以更方便地浏览，发现自己也感兴趣的内容。
+我 star 的项目比较杂，就算作者只是实现了一个很简单的功能，或者只是一个小 demo，哪怕已经不维护了，只要对我有学习意义，我就会 star。我发现很多时候正是这些小项目给我提供了灵感，或者解决了困扰我很久的一个问题。
 
-我 star 的项目比较杂，就算作者只是实现了一个很简单的功能，或者只是一个小 demo，哪怕已经不维护了，只要对我有学习意义，我就会 star。
-
-我发现很多时候正是这些小项目给我提供了灵感，或者解决了困扰我很久的一个问题。希望来这的人都能从我 star 的项目中获得一点点东西。
+希望来这的人都能从我 star 的项目中获得一点点东西。
 
 最后，归类 star 的项目的想法来自于 [ChessLuo](https://github.com/ChessLuo/GitHubNotes)。
 
 最最后，推荐一个 Chrome 插件 [Octo Mate](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf)，支持 Github 侧边栏查看 Markdown 文件标题大纲、查看项目大小等一些实用的小功能。
 
-*注：名字前带 - 表示不推荐使用，带 \+ 表示特别关注，以 star 数作为排名只是为了说明项目的受欢迎程度。*
+*注：名字前带 - 表示不推荐使用，带 \+ 表示特别关注，以 star 数作为排名只是为了说明项目当时的受欢迎程度。*
 
 ---
 
@@ -25,7 +23,7 @@
 #### Curated List
 
 - [awesome-android-ui (35000+)](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries.
-- [android-open-project (28000+)](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects
+- [android-open-project (30000+)](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects
 - [material-components-android (8000+)](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
 - [awesome-android (7000+)](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [AndroidLibs (5000+)](https://github.com/XXApple/AndroidLibs) - 收集 Android 开发中优秀的开源组件库
@@ -100,30 +98,27 @@
 
 #####  Tool
 
-- [+ Fragmentation (8000+)](https://github.com/YoKeyword/Fragmentation) - A powerful library that manage Fragment for Android!
 - [Tencent / QMUI_Android (8000+)](https://github.com/Tencent/QMUI_Android) - 提高 Android UI 开发效率的 UI 库
-  - [+ XUI (500+)](https://github.com/xuexiangjys/XUI) - 一个简洁而优雅的Android原生UI框架，解放你的双手！
+    -   [+ XUI (500+)](https://github.com/xuexiangjys/XUI) - 一个简洁而优雅的Android原生UI框架，解放你的双手！
+- [+ Fragmentation (8000+)](https://github.com/YoKeyword/Fragmentation) - A powerful library that manage Fragment for Android!
 - [StatusBarUtil (6000+)](https://github.com/laobie/StatusBarUtil) - A util for setting status bar style on Android App.
   - [StatusBarCompat (1800+)](https://github.com/niorgai/StatusBarCompat) - Status Bar Utils: Change Status Bar Mode Simply
 - [AndroidAutoSize (4000+)](https://github.com/JessYanCoding/AndroidAutoSize) - A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).
-- [google / cameraview (4000+)](https://github.com/google/cameraview) - Easily integrate Camera features into your Android app.
-    - [Fotoapparat (3000+)](https://github.com/RedApparat/Fotoapparat) - Making Camera for Android more friendly. Simplify Camera API.
+- [Fotoapparat (3000+)](https://github.com/RedApparat/Fotoapparat) - Making Camera for Android more friendly. Simplify Camera API.
     - [CameraView (2000+)](https://github.com/natario1/CameraView) - A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs.
     - [android-hidden-camera (200+)](https://github.com/kevalpatel2106/android-hidden-camera) - This library is to take picture using camera without camera preview.
 - [JKeyboardPanelSwitch (3100+)](https://github.com/Jacksgong/JKeyboardPanelSwitch) - For resolve the layout conflict when keybord & panel are switching (Android 键盘面板冲突 布局闪动处理方案)
     - [KeyboardVisibilityEvent (1000+)](https://github.com/yshrsmz/KeyboardVisibilityEvent) - Android Library to handle soft keyboard visibility change event.
 - [Android-skin-support (3000+)](https://github.com/ximsfei/Android-skin-support) - Android-skin-support is an easy to use dynamic skin framework for Android, Only one line of code to integrate it.
   - [Bilibili / MagicaSakura (3000+)](https://github.com/Bilibili/MagicaSakura) - MagicaSakura 是 Android 多主题框架。
-- [FinestWebView-Android (2000+)](https://github.com/TheFinestArtist/FinestWebView-Android) - Beautiful and customizable Android Activity that shows web pages within an app.
+- [Compressor (5000+)](https://github.com/zetbaitsu/Compressor) - AgentWeb is a powerful library based on Android WebView.
+    - [FinestWebView-Android (2000+)](https://github.com/TheFinestArtist/FinestWebView-Android) - Beautiful and customizable Android Activity that shows web pages within an app.
+    - [+ SuperWeb (200+)](https://github.com/Victory-Over/SuperWeb) - Android 基于腾讯X5内核的WebView(超级浏览器)，拥有文件上传、下载、浏览（支持PDF/PPT/DOC/EXCEL/TXT格式）、Android与JS的交互、视频播放、自定义进度条、下拉回弹等功能。
     - [AwesomeWebView-Android (<100)](https://github.com/hzw1199/AwesomeWebView-Android) - Great customizable Android Activity that shows web pages within an app.
 - [RichText (2000+)](https://github.com/zzhoujay/RichText) - Android 平台下的富文本解析器，支持 Html 和 Markdown
 - [alibaba / Tangram-Android (2000+)](https://github.com/alibaba/Tangram-Android) - Tangram is a modular UI solution for building native page dynamically including Tangram for Android, Tangram for iOS and even backend CMS. This project provides the sdk on Android.
 - [+ alibaba / Virtualview-Android (1000+)](https://github.com/alibaba/Virtualview-Android) - A light way to build UI in custom XML.
 - [FaceDetector (800+)](https://github.com/RedApparat/FaceDetector) - Face detection for your Android app
-- [ToastUtils (1000+)](https://github.com/getActivity/ToastUtils) - This is a very functional Toast
-  - [UniversalToast (500+)](https://github.com/bboylin/UniversalToast) - 简洁优雅可点击的toast控件，无BadTokenException风险，关闭通知权限依然正常显示。
-  - [+ smart-show (100+)](https://github.com/the-pig-of-jungle/smart-show) - Smart Toast & Snackbar & TopBar & Dialog
-- [PopLayer (200+)](https://github.com/MrCodeSniper/PopLayer) - 通用Android端弹窗管理框架，支持带网络请求的业务流程管理，内部维护弹窗优先级队列，具备弹窗管理扩展功能，整合 Dialog/PoupoWindow/悬浮Widget/透明Webview/Toast/SnackBar，无需再为繁琐的业务弹窗逻辑所困扰
 
 ##### Custom Views
 
@@ -143,6 +138,7 @@
 - [TakePhoto (6000+)](https://github.com/crazycodeboy/TakePhoto) - 一款用于在 Android 设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
 - [+ ShortcutBadger (6000+)](https://github.com/leolin310148/ShortcutBadger) - An Android library supports badge notification like iOS.
 - [SwipeBackLayout (5000+)](https://github.com/ikew0ng/SwipeBackLayout) - An Android library that help you to build app with swipe back gesture.
+- [InfiniteCycleViewPager (5000+)](https://github.com/Devlight/InfiniteCycleViewPager) - Infinite cycle ViewPager with two-way orientation and interactive effect.
 - [daimajia / NumberProgressBar (5000+)](https://github.com/daimajia/NumberProgressBar) - A beautiful, slim Android ProgressBar.
 - [FlowLayout (4500+)](https://github.com/hongyangAndroid/FlowLayout) - Android 流式布局，支持单选、多选等，适合用于产品标签等。
 - [HTextView (4500+)](https://github.com/hanks-zyh/HTextView) - Animation effects to text, not really textview
@@ -170,13 +166,19 @@
 - [RxGalleryFinal (2000+)](https://github.com/FinalTeam/RxGalleryFinal) - Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - [CustomActivityOnCrash (2000+)](https://github.com/Ereza/CustomActivityOnCrash) - Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
 - [mikepenz / AboutLibraries (2000+)](https://github.com/mikepenz/AboutLibraries) - AboutLibraries is a library to offer some information of libraries.
-- [BasePopup (2000+)](https://github.com/razerdp/BasePopup) - Android 下打造通用便捷的 PopupWindow
+- [+ XPopup (3000+)](https://github.com/li-xiaojun/XPopup) - 功能强大，UI简洁，交互优雅的通用弹窗！可以替代 Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout 等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！
+    - [BasePopup (3000+)](https://github.com/razerdp/BasePopup) - Android 下打造通用便捷的 PopupWindow
+    - [PopLayer (200+)](https://github.com/MrCodeSniper/PopLayer) - 通用Android端弹窗管理框架，支持带网络请求的业务流程管理，内部维护弹窗优先级队列，具备弹窗管理扩展功能，整合 Dialog/PoupoWindow/悬浮Widget/透明Webview/Toast/SnackBar，无需再为繁琐的业务弹窗逻辑所困扰
 - [- PersistentSearch (1800+)](https://github.com/KieronQuinn/PersistentSearch) - A clone of the Google Now/Maps/Play persistent search bar
 - [AnimatedSvgView (1700+)](https://github.com/jaredrummler/AnimatedSvgView) - Animated SVG Drawing for Android.
 - [material-range-bar (1500+)](https://github.com/oli107/material-range-bar) - Android widget for selecting a range of values.
 - [Skeleton (1400+)](https://github.com/ethanhua/Skeleton) - A library provides an easy way to show skeleton loading view like Facebook and Alipay.
   - [Broccoli (200+)](https://github.com/samlss/Broccoli) - An Android library that shows the placeholder of the view.
 - [MaterialAbout (1300+)](https://github.com/jrvansuita/MaterialAbout) - It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate.
+- [ToastUtils (1000+)](https://github.com/getActivity/ToastUtils) - This is a very functional Toast
+    -   [UniversalToast (500+)](https://github.com/bboylin/UniversalToast) - 简洁优雅可点击的toast控件，无BadTokenException风险，关闭通知权限依然正常显示。
+    -   [CookieBar2 (400+)](https://github.com/AviranAbady/CookieBar2) - CookieBar2 is an Android library for displaying messages at the top or bottom of the screen.
+    -   [+ smart-show (100+)](https://github.com/the-pig-of-jungle/smart-show) - Smart Toast & Snackbar & TopBar & Dialog
 - [BlurLockView (900+)](https://github.com/Nightonke/BlurLockView) - Lock view with blur effect. Easy to customise.
 - [SwipeBackLayout (800+)](https://github.com/gongwen/SwipeBackLayout) - SwipeBack is an android library that can finish a activity by using gesture.
 - [GoogleClock (700+)](https://github.com/lypeer/GoogleClock) - The core of it is SVG.
@@ -184,16 +186,15 @@
 - [+ StatusLayoutManager (600+)](https://github.com/Bakumon/StatusLayoutManager) - 切换不同的数据状态布局，包含加载中、空数据和出错状态，可自定义状态布局。
 - [RulerView (600+)](https://github.com/zjun615/RulerView) - 卷尺系列控件，包含：普通卷尺（如：体重）、金额尺、时间尺
 - [+ OXChart (500+)](https://github.com/openXu/OXChart) - 各种自定义图表库，使用简单，支持扩展
-- [+ XPopup (400+)](https://github.com/li-xiaojun/XPopup) - 功能强大，UI简洁，交互优雅的通用弹窗！可以替代 Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout 等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！
 - [WhatsNew (400+)](https://github.com/TonnyL/WhatsNew) - WhatsNew automatically displays a short description of the new features when users update your app
 - [IDCardCamera (400+)](https://github.com/wildma/IDCardCamera) - Android 自定义相机实现身份证拍照，并加入自动对焦与图片不规则裁剪
 - [+ Android-CommonShapeButton (300+)](https://github.com/michaelxs/Android-CommonShapeButton) - To remove all shape files from the project, provide a generic shape style button.
+    - [SuperButton (100+)](https://github.com/ansnail/SuperButton) - 好用的自定义按钮
 - [CoolViewPager (300+)](https://github.com/HuanHaiLiuXin/CoolViewPager) - A Cool ViewPager
 - [+ VoiceLine (300+)](https://github.com/ws123/VoiceLine) - 一个可以根据麦克风音量大小，显示一些波形效果的控件。
 - [+ StateViews (300+)](https://github.com/medyo/StateViews) - Create & Show progress, data or error views, the easy way!
+- [SpinnerDatePicker (300+)](https://github.com/drawers/SpinnerDatePicker) - A styleable DatePicker for Android using the old spinner style 
 - [LoopViewPager (200+)](https://github.com/yanzm/LoopViewPager) - LoopViewPager for Android
-- [CookieBar2 (200+)](https://github.com/AviranAbady/CookieBar2) - CookieBar2 is an Android library for displaying messages at the top or bottom of the screen.
-- [+ SuperWeb (200+)](https://github.com/Victory-Over/SuperWeb) - Android 基于腾讯X5内核的WebView(超级浏览器)，拥有文件上传、下载、浏览（支持PDF/PPT/DOC/EXCEL/TXT格式）、Android与JS的交互、视频播放、自定义进度条、下拉回弹等功能。
 - [AndroidRibbon (200+)](https://github.com/skydoves/AndroidRibbon) - Beautiful and the simplest ribbon view with shimmering effect.
 - [CircleIndicator (200+)](https://github.com/THEONE10211024/CircleIndicator) - A lightweight viewpager indicator!
 - [heads-up (100+)](https://github.com/SimenCodes/heads-up) - Heads-up notifications - Get the new heads-up notifications from Android Lollipop on any device, for free!
@@ -349,6 +350,7 @@
 - [dryrun (3000+)](https://github.com/cesarferreira/dryrun) - Try the demo project of any Android Library
 - [Tencent / matrix (3000+)](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
     - [QPM (200)](https://github.com/ZhuoKeTeam/QPM) - 质量性能监控组件，方便查看当前 APP 的性能。
+- [alipay / SoloPi (2000+)](https://github.com/alipay/SoloPi) - Soloπ 自动化测试工具
 - [eleme / UETool (2000+)](https://github.com/eleme/UETool) - Show/edit any view's attributions on the screen.
     - [android-TopActivity (800+)](https://github.com/109021017/android-TopActivity) - A useful tool for Android Developers, which shows the package name and class name of current activity.
     - [didi / DoraemonKit (600+)](https://github.com/didi/DoraemonKit) - A full-featured APP ( iOS & Android ) development assistant. You deserve it.
@@ -679,17 +681,17 @@
 
 #### UI
 
-- [Font-Awesome (58000+)](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-    - [google / material-design-icons (32000+)](https://github.com/google/material-design-icons) - Material Design icons by Google.
+- [Font-Awesome (60000+)](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+    - [google / material-design-icons (40000+)](https://github.com/google/material-design-icons) - Material Design icons by Google.
     - [ionicons (13000+)](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic Framework and web apps everywhere.
-- [ant-design / ant-design (37000+)](https://github.com/ant-design/ant-design) - A UI Design Language
+- [ant-design / ant-design (50000+)](https://github.com/ant-design/ant-design) - A UI Design Language
     - [didi / mand-mobile (2000+)](https://github.com/didi/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.
-- [mermaid (21000+)](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
-- [alibaba / ice (9000+)](https://github.com/alibaba/ice) - 🚀 飞冰 - 让前端开发简单而友好，海量可复用物料，配套桌面工具极速构建前端应用，效率提升 100%
-- [alibaba / rax (4800+)](https://github.com/alibaba/rax) - The fastest way to build cross-container application.
-- [svg-sprite-loader (4000+)](https://github.com/kisenka/svg-sprite-loader) - Webpack loader for creating SVG sprites.
+- [mermaid (25000+)](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [alibaba / ice (10000+)](https://github.com/alibaba/ice) - 🚀 飞冰 - 让前端开发简单而友好，海量可复用物料，配套桌面工具极速构建前端应用，效率提升 100%
+- [alibaba / rax (5000+)](https://github.com/alibaba/rax) - The fastest way to build cross-container application.
+- [svg-sprite-loader (1000+)](https://github.com/kisenka/svg-sprite-loader) - Webpack loader for creating SVG sprites.
 - [markvis (1000+)](https://github.com/geekplux/markvis) - make visualization in markdown.
-- [+ wired-fonts (100+)](https://github.com/beizhedenglong/wired-fonts) - 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
+- [+ wired-fonts (500+)](https://github.com/beizhedenglong/wired-fonts) - 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
 
 #### Tools
 
@@ -703,9 +705,10 @@
 - [showdown (10000+)](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [facebook / reason (8000+)](https://github.com/facebook/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
   - [revery (3000+)](https://github.com/revery-ui/revery) - Native, high-performance, cross-platform desktop apps - built with Reason!
+- [+ facebook / prop-types (3000+)](https://github.com/facebook/prop-types) - Runtime type checking for React props and similar objects
 - [+ query-string (3000+)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
+- [number-precision (2000+)](https://github.com/nefe/number-precision) - tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 - [coordtransform (1000+)](https://github.com/wandergis/coordtransform) - 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
-- [+ airbnb / prop-types (400+)](https://github.com/airbnb/prop-types) - Custom React PropType validators.
 - [interpolator (200+)](https://github.com/inloop/interpolator) - Realtime interpolation equation editor.
 
 #### Developer Tools
@@ -855,15 +858,15 @@
 
 ##### Mac
 
-- [ImageOptim (5200+)](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
-- [HandBrake (3700+)](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
-- [MenuMeters](https://github.com/yujitach/MenuMeters) - Mac menu network status
+- [ImageOptim (6000+)](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+- [HandBrake (5000+)](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [MenuMeters (2000+)](https://github.com/yujitach/MenuMeters) - Mac menu network status
 - [OpenInTerminal (500+)](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper.
+- [WeChatExtension-ForMac (1000+)](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac 版微信的功能拓展
 
 ##### Chrome Extensions
 
 - [vimium (9000+)](https://github.com/philc/vimium) - The hacker's browser.
-- [high-speed-downloader (4000+)](https://github.com/high-speed-downloader/high-speed-downloader) - 百度网盘不限速下载，支持 Windows 和 Mac
 - [chrome-github-mate (300+)](https://github.com/camsong/chrome-github-mate) - Chrome extension to make single file download effortless and with more features
 
 ##### Others
@@ -895,7 +898,7 @@
     - [pan-light (5000+)](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 - [sourcerer-app (5000+)](https://github.com/sourcerer-io/sourcerer-app) - Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [jspaint (4000+)](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
-- [sorry (4000+)](https://github.com/xtyxtyx/sorry) - 在线制作 sorry 为所欲为 的 GIF
+- [sorry (4000+)](https://github.com/xtyxtyx/sorry) - 在线制作『sorry 为所欲为』的 GIF
     - [logoly (1500+)](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
     - [emoji-mosaic (500+)](https://github.com/ericandrewlewis/emoji-mosaic) - Turn an image into a mosaic made of emojis
 - [EverydayWechat (3000+)](https://github.com/sfyc23/EverydayWechat) - 每日自动给女朋友发微信暖心话。
@@ -947,9 +950,9 @@
 
 #### Curated List
 
-- [awesome (95000+)](https://github.com/sindresorhus/awesome) - Curated List of Awesome Lists
-- [the-book-of-secret-knowledge (17000+)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
-- [HelloGitHub (13000+)](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣
+- [awesome (100000+)](https://github.com/sindresorhus/awesome) - Curated List of Awesome Lists
+- [the-book-of-secret-knowledge (20000+)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
+- [HelloGitHub (15000+)](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣
 
 #### Other Tools
 

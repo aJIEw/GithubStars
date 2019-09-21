@@ -78,6 +78,7 @@ My Github Stars
 ##### ListView/ScrollView/RecyclerView
 
 - [BaseRecyclerViewAdapterHelper (15000+)](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
+  - [AdapterDelegates (2000+)](https://github.com/sockeqwe/AdapterDelegates) - "Favor composition over inheritance" for RecyclerView Adapters
   - [FastAdapter (2000+)](https://github.com/mikepenz/FastAdapter) - The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction...
   - [CommonAdapter (800+)](https://github.com/tianzhijiexian/CommonAdapter) - 通过封装 BaseAdapter 和 RecyclerView.Adapter 得到的通用的、简易的 Adapter
 - [XRecyclerView (4000+)](https://github.com/XRecyclerView/XRecyclerView) - a RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView
@@ -347,6 +348,7 @@ My Github Stars
     - [Meituan-Dianping / Logan (1000+)](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform (Android/iOS).
     - [logback-android (600+)](https://github.com/tony19/logback-android) - The reliable, generic, fast and flexible logging framework for Android
 - [Android-Debug-Database (5000+)](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
+- [Tencent / GT (4000+)](https://github.com/Tencent/GT) - GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere.
 - [dryrun (3000+)](https://github.com/cesarferreira/dryrun) - Try the demo project of any Android Library
 - [Tencent / matrix (3000+)](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
     - [QPM (200)](https://github.com/ZhuoKeTeam/QPM) - 质量性能监控组件，方便查看当前 APP 的性能。
@@ -477,6 +479,7 @@ My Github Stars
 - [tachiyomi (5000+)](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android
 - [google / live-transcribe-speech-engine (1000+)](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing.
 - [Reading (300+)](https://github.com/Hankkin/Reading) - Reading 是一款基于 WanAndroid OpenApi 开发的阅读类工具
+- [Makeup (300+)](https://github.com/DingProg/Makeup) - 让你的“女神”逆袭，代码撸彩妆（画妆）
 
 
 
@@ -616,6 +619,7 @@ My Github Stars
 - [flutter-in-action (5000+)](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
 - [Flutter-learning (3000+)](https://github.com/AweiLoveAndroid/Flutter-learning) - Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
 - [GSYFlutterBook (2000+)](https://github.com/CarGuo/GSYFlutterBook) - Flutter 完整开发实战详解系列
+- [Best-Flutter-UI-Templates (2000+)](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 
 ##### UI
 
@@ -737,16 +741,16 @@ My Github Stars
 
 #### Tools
 
-- [+ RxJava (36000+)](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+- [+ RxJava (40000+)](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [+ protobuf (30000+)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [google / guava (27000+)](https://github.com/google/guava) - Additional APIs/utilities for Java.
-- [square / okio (5600+)](https://github.com/square/okio) - A modern I/O API for Java
-- [apache / thrift (5000+)](https://github.com/apache/thrift) - Thrift is a lightweight, language-independent software stack with an associated code generation mechanism for point-to-point RPC
-- [+ alibaba / easyexcel (3000+)](https://github.com/alibaba/easyexcel) - 快速、简单避免 OOM 的 Java 处理 Excel 工具
-- [XposedBridge (2400+)](https://github.com/rovo89/XposedBridge) - The Java part of the Xposed framework.
-- [ChinaMobilePhoneNumberRegex (2200+)](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) - 一组匹配中国大陆手机号码的正则表达式。
-- [hutool (2200+)](https://github.com/looly/hutool) - A set of tools that keep Java sweet.
-- [JustAuth (1000+)](https://github.com/justauth/JustAuth) - 整合第三方登录的开源库
+- [google / guava (30000+)](https://github.com/google/guava) - Additional APIs/utilities for Java.
+- [+ alibaba / easyexcel (10000+)](https://github.com/alibaba/easyexcel) - 快速、简单避免 OOM 的 Java 处理 Excel 工具
+- [+ hutool (8000+)](https://github.com/looly/hutool) - A set of tools that keep Java sweet.
+- [square / okio (6000+)](https://github.com/square/okio) - A modern I/O API for Java
+- [apache / thrift (6000+)](https://github.com/apache/thrift) - Thrift is a lightweight, language-independent software stack with an associated code generation mechanism for point-to-point RPC
+- [JustAuth (5000+)](https://github.com/justauth/JustAuth) - 整合第三方登录的开源库
+- [ChinaMobilePhoneNumberRegex (3000+)](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) - 一组匹配中国大陆手机号码的正则表达式。
+- [mp4parser (2000+)](https://github.com/sannies/mp4parser) - A Java API to read, write and create MP4 files
 
 #### Developer Tools
 
@@ -862,6 +866,7 @@ My Github Stars
 - [HandBrake (5000+)](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [MenuMeters (2000+)](https://github.com/yujitach/MenuMeters) - Mac menu network status
 - [OpenInTerminal (500+)](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper.
+- [WebPQuickLook (300+)](https://github.com/emin/WebPQuickLook) - Mac OS X QuickLook plugin for WebP image files
 - [WeChatExtension-ForMac (1000+)](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac 版微信的功能拓展
 
 ##### Chrome Extensions
@@ -896,6 +901,7 @@ My Github Stars
     - [Motrix (3000+)](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [baidu-netdisk-downloaderx (7000+)](https://github.com/b3log/baidu-netdisk-downloaderx) - 一款图形界面的百度网盘不限速下载器。 
     - [pan-light (5000+)](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
+- [py12306 (7000+)](https://github.com/pjialin/py12306) - 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 - [sourcerer-app (5000+)](https://github.com/sourcerer-io/sourcerer-app) - Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [jspaint (4000+)](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [sorry (4000+)](https://github.com/xtyxtyx/sorry) - 在线制作『sorry 为所欲为』的 GIF
@@ -963,6 +969,9 @@ My Github Stars
   - [Awesome_APIs (5000+)](https://github.com/TonnyL/Awesome_APIs) - A collection of APIs.
   - [NeteaseCloudMusicApi (10000+)](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
   - [douban-api (>10)](https://github.com/xsbailong/douban-api) - 豆瓣 API 文档
+
+##### Setup Blog
+
 - [Ghost (30000+)](https://github.com/TryGhost/Ghost) - The platform for professional publishers
   - [Ghost-Admin (300+)](https://github.com/TryGhost/Ghost-Admin) - Ghost's admin client
 - [hexo (25000+)](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -970,6 +979,9 @@ My Github Stars
       - [hexo-theme-next (3000+)](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
   - [hexo-theme-yilia (2000+)](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo 主题
   - [hexo-theme-cactus (1000+)](https://github.com/probberechts/hexo-theme-cactus) - A responsive, clean and simple theme for Hexo.
+- [WordPress (13000+)](https://github.com/WordPress/WordPress) - WordPress, Git-ified.
+- [solo (10000+)](https://github.com/b3log/solo) - 一款小而美的博客系统，专为程序员设计。
+- [saber (2000+)](https://github.com/saberland/saber) - A static website generator for building blazing fast websites with Vue.js
 - [Mirror (500+)](https://github.com/LoeiFy/Mirror) - A blogging tool powered by GitHub API. Write your blog on GitHub issue.
 
 #### How To

@@ -1,18 +1,15 @@
----
 My Github Stars
 ---
 
-随着使用 Github 时间的增加，star 的项目也越来越多，所以把自己 star 过的项目整理分类还是挺有好处的，一是为了以后查找方便，二来也可以加深下印象。
+随着使用 Github 时间的增加，star 的项目也越来越多，所以把自己 star 过的项目整理分类还是挺有必要的，比如为了以后查找方便。想象一下，当需要寻找某方面资料的时候，扫一眼分类列表，正好找到想要的资料的那种窃喜，而且那些偶然发现的项目说不定也会被重新翻出来。另外，我觉得这也是一种分享，如果每个人都把自己的 star 的项目分分类，那么其他人就可以更方便地浏览，从中发现自己也感兴趣的项目。
 
-当需要寻找某方面资料的时候，首先扫一眼分类列表，或许正好可以找到对应的资料，而且那些偶然发现的项目也不会随着时间的推移而被我们遗忘。另外，我觉得这也是一种分享，如果每个人都把自己的 star 的项目分类，那么其他人就可以更方便地浏览，发现自己也感兴趣的内容。
-
-我 star 的项目比较杂，就算作者只是实现了一个很简单的功能，或者只是一个小 demo，哪怕已经不维护了，只要对我有学习意义，我就会 star。我发现很多时候正是这些小项目给我提供了灵感，或者解决了困扰我很久的一个问题。
+我 star 的项目比较杂，有时候作者只是实现了一个很简单的功能，或者只是一个小 demo，哪怕已经不维护了，只要对我有学习意义，一般也会随手点个 star。因为我发现很多时候正是这些小项目给我提供了灵感，或者解决了困扰我很久的一个问题。
 
 希望来这的人都能从我 star 的项目中获得一点点东西。
 
-最后，归类 star 的项目的想法来自于 [ChessLuo](https://github.com/ChessLuo/GitHubNotes)。
+最后，推荐一个 Chrome 插件 [Octo Mate](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf)，支持 Github 侧边栏查看 Markdown 文件标题大纲、查看项目大小等一些实用的小功能。
 
-最最后，推荐一个 Chrome 插件 [Octo Mate](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf)，支持 Github 侧边栏查看 Markdown 文件标题大纲、查看项目大小等一些实用的小功能。
+归类 star 的项目的想法最初来自于 [ChessLuo](https://github.com/ChessLuo/GitHubNotes)。
 
 *注：名字前带 - 表示不推荐使用，带 \+ 表示特别关注，以 star 数作为排名只是为了说明项目当时的受欢迎程度。*
 
@@ -23,11 +20,13 @@ My Github Stars
 #### Curated List
 
 - [awesome-android-ui (35000+)](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries.
+    - [material-components-android (8000+)](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
+    - [AndroidLibs (6000+)](https://github.com/XXApple/AndroidLibs) - 收集 Android 开发中优秀的开源组件库
+    - [MeiWidgetView (1000+)](https://github.com/HpWens/MeiWidgetView) - 自定义控件集合库
 - [android-open-project (30000+)](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects
-- [material-components-android (8000+)](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
-- [awesome-android (7000+)](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
-- [AndroidLibs (5000+)](https://github.com/XXApple/AndroidLibs) - 收集 Android 开发中优秀的开源组件库
-- [MeiWidgetView (1000+)](https://github.com/HpWens/MeiWidgetView) - 自定义控件集合库
+    - [+ awesome-android (7000+)](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
+- [+ awesome-adb (6000+)](https://github.com/mzlogin/awesome-adb) - ADB 用法大全
+- [android-lifecycles (500+)](https://github.com/JoseAlcerreca/android-lifecycles) - The Android Lifecycle cheat sheet
 
 
 
@@ -36,22 +35,19 @@ My Github Stars
 
 - [android_guides (25000+)](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
     - [Android_Data (8000+)](https://github.com/Freelander/Android_Data) - Android 学习资料收集
-- [LearningNotes (11000+)](https://github.com/francistao/LearningNotes) - Android 开发：从基础到算法再到应用
-    - [AndroidNote (6000+)](https://github.com/GcsSloop/AndroidNote) - 安卓学习笔记
+- [LearningNotes (12000+)](https://github.com/francistao/LearningNotes) - Android 开发：从基础到算法再到应用
+    - [+ AndroidNote (7000+)](https://github.com/GcsSloop/AndroidNote) - 安卓学习笔记
     - [Android-ReadTheFuckingSourceCode (500+)](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode) - 记录日常开发中遇到的技术重点，难点，知识点总结，读书笔记，面试题，个人分享等。
     - [OpenBox (300+)](https://github.com/OpenDevTeam/OpenBox) - 原创技术文章，而且收录并精选优秀Android技术文章
-    - [Java_Kotlin_Android_Learn (30+)](https://github.com/leavesC/Java_Kotlin_Android_Learn) - 关于 Java 、Kotlin 、 Android 的学习笔记
+    - [Java_Kotlin_Android_Learn](https://github.com/leavesC/Java_Kotlin_Android_Learn) - 关于 Java 、Kotlin 、 Android 的学习笔记
 - [android-open-project-analysis (6000+)](https://github.com/android-cn/android-open-project-analysis) - Analysis implementation of android open source project.
     - [AndroidSdkSourceAnalysis (5000+)](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - Android Sdk 源码解析——旨在帮助 Android 开发者更好的学习 Android！
     - [android-open-framework-analysis (300+)](https://github.com/sucese/android-open-framework-analysis) - Android open framework analysis
 - [android-best-practices (18000+)](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
     - [Android-Tips (3000+)](https://github.com/tangqi92/Android-Tips) - An awesome list of tips for Android.
     - [awesome-android-tips (2000+)](https://github.com/jiang111/awesome-android-tips) - some code tips for android 💯
-- [IntelliJ-IDEA-Tutorial (5000+)](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
-- [awesome-adb (5000+)](https://github.com/mzlogin/awesome-adb) - ADB 用法大全
 - [+ Android-Daily-Interview (2000+)](https://github.com/Moosphan/Android-Daily-Interview) - 每工作日更新一道 Android 面试题，小聚成河，大聚成江，共勉之～
 - [+ UI2018 (1000+)](https://github.com/zincPower/UI2018) - 安卓高级 UI 代码整理和博客代码 Demo
-- [android-lifecycles (500+)](https://github.com/JoseAlcerreca/android-lifecycles) - The Android Lifecycle cheat sheet
 
 
 
@@ -72,6 +68,7 @@ My Github Stars
 - [Android-Image-Cropper (4000+)](https://github.com/ArthurHub/Android-Image-Cropper) - Image Cropping Library for Android, optimized for Camera / Gallery.
 - [subsampling-scale-image-view (4000+)](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
 - [SmartCropper (2000+)](https://github.com/pqpo/SmartCropper) - A library for cropping image in a smart way that can identify the border and correct the cropped image. 智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。
+- [ShadowImageView (2000+)](https://github.com/yingLanNull/ShadowImageView) - 可以根据图片内容变阴影颜色，更加细腻的阴影效果
 - [ImageViewZoom (1000+)](https://github.com/sephiroth74/ImageViewZoom) - Android ImageView widget with zoom and pan capabilities
 - [AndroidWM (1000+)](https://github.com/huangyz0918/AndroidWM) - An android image watermark library that supports invisible digital watermarks. 
 - [transferee (1000+)](https://github.com/Hitomis/transferee) - 一个帮助您完成从缩略图到原图无缝过渡转变的神奇组件
@@ -88,8 +85,8 @@ My Github Stars
 - [- drag-sort-listview (3000+)](https://github.com/bauerca/drag-sort-listview) - Android ListView with drag and drop reordering.
 - [ShimmerRecyclerView (2000+)](https://github.com/sharish/ShimmerRecyclerView) - A custom recycler view with shimmer views to indicate that views are loading.
 - [LRecyclerView (2000+)](https://github.com/jdsjlzx/LRecyclerView) - RecyclerView 下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
-- [drag-select-recyclerview (1500+)](https://github.com/afollestad/drag-select-recyclerview) - Easy Google Photos style multi-selection for RecyclerViews, powered by Kotlin and AndroidX.
-- [SuspensionIndexBar (1200+)](https://github.com/mcxtzhang/SuspensionIndexBar) - 仿美团选择城市、微信通讯录、饿了么点餐列表的导航悬停分组索引列表。
+- [SuspensionIndexBar (2000+)](https://github.com/mcxtzhang/SuspensionIndexBar) - 仿美团选择城市、微信通讯录、饿了么点餐列表的导航悬停分组索引列表。
+- [+ drag-select-recyclerview (1500+)](https://github.com/afollestad/drag-select-recyclerview) - Easy Google Photos style multi-selection for RecyclerViews, powered by Kotlin and AndroidX.
 - [IndexableRecyclerView (1000+)](https://github.com/YoKeyword/IndexableRecyclerView) - A RecyclerView with indexable, sticky and many other features.
   - [IndexableListView (800+)](https://github.com/woozzu/IndexableListView) - iPhone like fast scroll ListView on Android.
 - [+ Linkage-RecyclerView (700+)](https://github.com/KunMinX/Linkage-RecyclerView) - 即使不用饿了么订餐，也请务必收藏好该库！🔥 一行代码即可接入，二级联动订餐列表。
@@ -101,19 +98,19 @@ My Github Stars
 
 #####  Tool
 
-- [Tencent / QMUI_Android (8000+)](https://github.com/Tencent/QMUI_Android) - 提高 Android UI 开发效率的 UI 库
-    -   [+ XUI (500+)](https://github.com/xuexiangjys/XUI) - 一个简洁而优雅的Android原生UI框架，解放你的双手！
-- [+ Fragmentation (8000+)](https://github.com/YoKeyword/Fragmentation) - A powerful library that manage Fragment for Android!
-- [AppIntro (8000+)](https://github.com/AppIntro/AppIntro) - Make a cool intro for your Android app.
-- [StatusBarUtil (6000+)](https://github.com/laobie/StatusBarUtil) - A util for setting status bar style on Android App.
+- [Tencent / QMUI_Android (10000+)](https://github.com/Tencent/QMUI_Android) - 提高 Android UI 开发效率的 UI 库
+    -   [+ XUI (1500+)](https://github.com/xuexiangjys/XUI) - 一个简洁而优雅的Android原生UI框架，解放你的双手！
+- [+ Fragmentation (9000+)](https://github.com/YoKeyword/Fragmentation) - A powerful library that manage Fragment for Android!
+- [AppIntro (9000+)](https://github.com/AppIntro/AppIntro) - Make a cool intro for your Android app.
+- [StatusBarUtil (8000+)](https://github.com/laobie/StatusBarUtil) - A util for setting status bar style on Android App.
   - [StatusBarCompat (1800+)](https://github.com/niorgai/StatusBarCompat) - Status Bar Utils: Change Status Bar Mode Simply
-- [AndroidAutoSize (4000+)](https://github.com/JessYanCoding/AndroidAutoSize) - A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).
+- [AndroidAutoSize (8000+)](https://github.com/JessYanCoding/AndroidAutoSize) - A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).
 - [Fotoapparat (3000+)](https://github.com/RedApparat/Fotoapparat) - Making Camera for Android more friendly. Simplify Camera API.
     - [CameraView (2000+)](https://github.com/natario1/CameraView) - A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs.
     - [CameraView (2000+)](https://github.com/CJT2325/CameraView) - 仿微信拍照Android控件（轻触拍照，长按摄像）
     - [phoenix (1000+)](https://github.com/sucese/phoenix) - Android平台上拍照/录像，图片/视频选择，编辑和压缩的一站式解决方案。
     - [android-hidden-camera (200+)](https://github.com/kevalpatel2106/android-hidden-camera) - This library is to take picture using camera without camera preview.
-- [JKeyboardPanelSwitch (3100+)](https://github.com/Jacksgong/JKeyboardPanelSwitch) - For resolve the layout conflict when keybord & panel are switching (Android 键盘面板冲突 布局闪动处理方案)
+- [JKeyboardPanelSwitch (3500+)](https://github.com/Jacksgong/JKeyboardPanelSwitch) - For resolve the layout conflict when keybord & panel are switching (Android 键盘面板冲突 布局闪动处理方案)
     - [KeyboardVisibilityEvent (1000+)](https://github.com/yshrsmz/KeyboardVisibilityEvent) - Android Library to handle soft keyboard visibility change event.
 - [Android-skin-support (3000+)](https://github.com/ximsfei/Android-skin-support) - Android-skin-support is an easy to use dynamic skin framework for Android, Only one line of code to integrate it.
   - [Bilibili / MagicaSakura (3000+)](https://github.com/Bilibili/MagicaSakura) - MagicaSakura 是 Android 多主题框架。
@@ -130,11 +127,11 @@ My Github Stars
 
 ##### Custom Views
 
-- [MPAndroidChart (24000+)](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations
-- [material-dialogs (14000+)](https://github.com/afollestad/material-dialogs) - A beautiful and fluid dialogs API for Kotlin & Android.
-- [SmartRefreshLayout (14000+)](https://github.com/scwang90/SmartRefreshLayout) - 下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的 Header 和 Footer。
-    - [android-Ultra-Pull-To-Refresh (9000+)](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) - Ultra Pull to Refresh for Android. Support all the views.
-- [google / flexbox-layout (14000+)](https://github.com/google/flexbox-layout) - Flexbox for Android
+- [MPAndroidChart (30000+)](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations
+- [SmartRefreshLayout (20000+)](https://github.com/scwang90/SmartRefreshLayout) - 下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的 Header 和 Footer。
+    - [android-Ultra-Pull-To-Refresh (10000+)](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) - Ultra Pull to Refresh for Android. Support all the views.
+- [material-dialogs (15000+)](https://github.com/afollestad/material-dialogs) - A beautiful and fluid dialogs API for Kotlin & Android.
+- [google / flexbox-layout (15000+)](https://github.com/google/flexbox-layout) - Flexbox for Android
 - [daimajia / AndroidSwipeLayout (10000+)](https://github.com/daimajia/AndroidSwipeLayout) - The Most Powerful Swipe Layout!
 - [mikepenz / MaterialDrawer (10000+)](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
 - [alibaba / vlayout (10000+)](https://github.com/alibaba/vlayout) - Project vlayout is a powerfull LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView.
@@ -211,9 +208,9 @@ My Github Stars
 
 ##### Animations
 
-- [lottie-android (22000+)](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
+- [lottie-android (25000+)](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
 - [daimajia / AndroidViewAnimations (10000+)](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
-- [recyclerview-animators (8500+)](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add item animator to RecyclerView items.
+- [recyclerview-animators (10000+)](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add item animator to RecyclerView items.
 - [Android-Iconics (4000+)](https://github.com/mikepenz/Android-Iconics) - Use any icon font, or vector (.svg) as drawable in your application.
 - [LayoutManagerGroup (3000+)](https://github.com/DingMouRen/LayoutManagerGroup) - Customize the LayoutManager of RecyclerView(自定义LayoutManager)
 - [android-iconify (3000+)](https://github.com/JoanZapata/android-iconify) - Android integration of multiple icon providers such as FontAwesome, Entypo, Typicons,...
@@ -244,8 +241,8 @@ My Github Stars
 ##### Core
 
 - [square / retrofit (30000+)](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java.
-    - [okhttp-OkGo (9000+)](https://github.com/jeasonlzy/okhttp-OkGo) - OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
-    - [Tencent / mars (11000+)](https://github.com/Tencent/mars) - Mars is a **cross-platform network component** developed by WeChat.
+    - [okhttp-OkGo (10000+)](https://github.com/jeasonlzy/okhttp-OkGo) - OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
+    - [Tencent / mars (13000+)](https://github.com/Tencent/mars) - Mars is a **cross-platform network component** developed by WeChat.
     - [Fast-Android-Networking (3000+)](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
 - [square / okhttp (30000+)](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
 - [JakeWharton / butterknife (22000+)](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
@@ -273,8 +270,8 @@ My Github Stars
   - [+ PRDownloader (2000+)](https://github.com/MindorksOpenSource/PRDownloader) - PRDownloader - A file downloader library for Android with pause and resume support
 - [+ evernote / android-job (5000+)](https://github.com/evernote/android-job) - Android library to handle jobs in the background.
 - [Tencent / MMKV (5000+)](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android.
-- [JakeWharton / DiskLruCache (4000+)](https://github.com/JakeWharton/DiskLruCache) - Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
-    - [ASimpleCache (3200+)](https://github.com/yangfuhai/ASimpleCache) - A simple cache for Android and Java
+- [JakeWharton / DiskLruCache (5000+)](https://github.com/JakeWharton/DiskLruCache) - Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
+    - [ASimpleCache (3000+)](https://github.com/yangfuhai/ASimpleCache) - A simple cache for Android and Java
 - [icepick (3500+)](https://github.com/frankiesardo/icepick) - Android Instance State made easy
 - [parceler (3500+)](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation.
 - [Bolts-Android (3000+)](https://github.com/BoltsFramework/Bolts-Android) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier. (Tasks and App links)
@@ -308,25 +305,25 @@ My Github Stars
 
 ##### Plugin Libs
 
-- [alibaba / atlas (6600+)](https://github.com/alibaba/atlas) - A powerful Android Dynamic Component Framework.
-- [didi / VirtualAPK (6000+)](https://github.com/didi/VirtualAPK) - A powerful and lightweight plugin framework for Android
+- [alibaba / atlas (7000+)](https://github.com/alibaba/atlas) - A powerful Android Dynamic Component Framework.
+- [didi / VirtualAPK (7000+)](https://github.com/didi/VirtualAPK) - A powerful and lightweight plugin framework for Android
+- [DroidPlugin (6000+)](https://github.com/DroidPluginTeam/DroidPlugin) - A plugin framework on android. Run any third-party apk without installation, modification or repackage.
+  - [understand-plugin-framework (2000+)](https://github.com/tiann/understand-plugin-framework) - demos to help understand Droid plugin framwork
 - [Qihoo360 / RePlugin (5000+)](https://github.com/Qihoo360/RePlugin) - A flexible, stable, easy-to-use Android Plug-in Framework
-- [DroidPlugin (5000+)](https://github.com/DroidPluginTeam/DroidPlugin) - A plugin framework on android. Run any third-party apk without installation, modification or repackage.
-  - [understand-plugin-framework (1000+)](https://github.com/tiann/understand-plugin-framework) - demos to help understand Droid plugin framwork
-- [Small (4500+)](https://github.com/wequick/Small) - A small framework to split app into small parts
-- [Android-Plugin-Framework (1300+)](https://github.com/limpoxe/Android-Plugin-Framework) - Android 插件框架，免安装运行插件 APK ，支持独立插件和非独立插件
-- [Tencent / Shadow (1000+)](https://github.com/Tencent/Shadow) - 零反射全动态 Android 插件框架
-- [ManbangGroup / Phantom (600+)](https://github.com/ManbangGroup/Phantom) - 零 Hook Android 插件化方案
+- [Small (5000+)](https://github.com/wequick/Small) - A small framework to split app into small parts
+- [Tencent / Shadow (3000+)](https://github.com/Tencent/Shadow) - 零反射全动态 Android 插件框架
+- [Android-Plugin-Framework (1500+)](https://github.com/limpoxe/Android-Plugin-Framework) - Android 插件框架，免安装运行插件 APK ，支持独立插件和非独立插件
+- [ManbangGroup / Phantom (1000+)](https://github.com/ManbangGroup/Phantom) - 零 Hook Android 插件化方案
 
 ##### Componentization Libs
 
 - [AndroidModular (300+)](https://github.com/LiushuiXiaoxia/AndroidModular) - 总结 Android 模块化的一些知识点。
 
-- [luckybilly / AndroidComponentizeLibs (500+)](https://github.com/luckybilly/AndroidComponentizeLibs) - 多个维度对比一些有代表性的开源 Android 组件化开发方案
+    - [luckybilly / AndroidComponentizeLibs (500+)](https://github.com/luckybilly/AndroidComponentizeLibs) - 多个维度对比一些有代表性的开源 Android 组件化开发方案
 
-- [alibaba / ARouter (8000+)](https://github.com/alibaba/ARouter) - A framework for assisting in the renovation of Android componentization
-- [luojilab / DDComponentForAndroid (2600+)](https://github.com/luojilab/DDComponentForAndroid) - 一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能
-- [luckybilly / CC (2300+)](https://github.com/luckybilly/CC) - 业界首个支持渐进式组件化改造的Android组件化开源框架，支持跨进程调用。
+- [alibaba / ARouter (10000+)](https://github.com/alibaba/ARouter) - A framework for assisting in the renovation of Android componentization
+- [luojilab / DDComponentForAndroid (3000+)](https://github.com/luojilab/DDComponentForAndroid) - 一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能
+- [luckybilly / CC (3000+)](https://github.com/luckybilly/CC) - 业界首个支持渐进式组件化改造的Android组件化开源框架，支持跨进程调用。
 
 ##### Hotfix Libs
 
@@ -377,17 +374,20 @@ My Github Stars
 
 ##### Gradle Plugins
 
-- [AndResGuard (5300+)](https://github.com/shwenzhang/AndResGuard) - Proguard resource for Android by wechat team.
+- [AndResGuard (6000+)](https://github.com/shwenzhang/AndResGuard) - Proguard resource for Android by wechat team.
 - [Meituan-Dianping / walle (4000+)](https://github.com/Meituan-Dianping/walle) - Android Signature V2 Scheme 签名下的新一代渠道包打包神器
     - [packer-ng-plugin (4000+)](https://github.com/mcxiaoke/packer-ng-plugin) - 下一代 Android 打包工具，100 个渠道包只需要 10 秒钟
-- [dexcount-gradle-plugin (2500+)](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build.
-- [facebook / screenshot-tests-for-android (1200+)](https://github.com/facebook/screenshot-tests-for-android) - Generate fast deterministic screenshots during Android instrumentation tests
+- [dexcount-gradle-plugin (3000+)](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build.
+- [facebook / screenshot-tests-for-android (1500+)](https://github.com/facebook/screenshot-tests-for-android) - Generate fast deterministic screenshots during Android instrumentation tests
     - [Shot (400+)](https://github.com/Karumi/Shot) - Gradle plugin developed to facilitate screenshot testing for Android
 - [android-maven-gradle-plugin (1000+)](https://github.com/dcendents/android-maven-gradle-plugin) - Modification to the standard Maven plugin to be compatible with android-library projects (aar).
+- [MethodTraceMan (300+)](https://github.com/zhengcx/MethodTraceMan) - 用于快速找到高耗时方法，定位解决Android App卡顿问题。
 - [thinApkFile (20+)](https://github.com/skyinu/thinApkFile) - a gradle plugin to remove useless file in apk to reduce apk size
 - [library-analysis](https://github.com/znyang/library-analysis) - 分析各依赖库文件的大小
 
 ##### Android Studio Plugins
+
+- [IntelliJ-IDEA-Tutorial (5000+)](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
 
 - [alibaba / freeline (4000+)](https://github.com/alibaba/freeline) - A super fast build tool for Android, an alternative to Instant Run
 - [+ GsonFormat (3000+)](https://github.com/zzz40500/GsonFormat) - 根据 Gson 库使用的要求，将 JSONObject 格式的 String 解析成实体
@@ -438,6 +438,7 @@ My Github Stars
 - [Kotlin / kotlin-koans (2500+)](https://github.com/Kotlin/kotlin-koans) - Kotlin workshop
 - [JetBrains / kotlin-examples (2000+)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin
 - [KotlinMvp (2000+)](https://github.com/git-xuhao/KotlinMvp) - 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目，简约风格及详细注释，欢迎 star or fork！
+- [android-kotlin-fundamentals-apps (200+)](https://github.com/google-developer-training/android-kotlin-fundamentals-apps) - android-kotlin-fundamentals-apps
 
 ##### Tools
 
@@ -445,6 +446,7 @@ My Github Stars
 - [ktor (4200+)](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
 - [koin (3000+)](https://github.com/InsertKoinIO/koin) - a pragmatic lightweight dependency injection framework for Kotlin
 - [MvRx (2000+)](https://github.com/airbnb/MvRx) - MvRx: Android on Autopilot
+- [create-android-kotlin-app (1000+)](https://github.com/nekocode/create-android-kotlin-app) - Create android kotlin app with one line of command.
 - [kotlin-statistics (500+)](https://github.com/thomasnield/kotlin-statistics) - Idiomatic statistical operators for Kotlin
 
 
@@ -461,6 +463,7 @@ My Github Stars
     - [android-jetpack-demo (100+)](https://github.com/zhiwei1990/android-jetpack-demo) - 快速入门Android Jetpack以及相关Kotlin、RxJava、MVVM等主流技术，独立构架App的基础技能
 - [easypermissions (6000+)](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
 - [android-testing (5000+)](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
+- [views-widgets-samples (500+)](https://github.com/android/views-widgets-samples) - Multiple samples showing the best practices in views-widgets on Android.
 - [android-AppShortcuts (200+)](https://github.com/googlesamples/android-AppShortcuts) - How to use the Launcher Shortcuts API introduced in Android 7.1 (API 25).
 - [android-BasicAccessibility (100+)](https://github.com/googlesamples/android-BasicAccessibility) - This sample demonstrates how to create an accessible application, using a mix of different widgets demonstrating different ways of adding accessibility markup to a UI.
 
@@ -549,7 +552,7 @@ My Github Stars
 
 #### Flutter
 
--   [flutter (70000+)](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
+-   [flutter (80000+)](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 
 ##### Curated List
 
@@ -559,6 +562,7 @@ My Github Stars
 ##### Learning
 
 -   [flutter-in-action (5000+)](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
+-   [flutter / samples (5000+)](https://github.com/flutter/samples) - A collection of Flutter examples and demos.
 -   [Flutter-learning (3000+)](https://github.com/AweiLoveAndroid/Flutter-learning) - Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
 -   [GSYFlutterBook (2000+)](https://github.com/CarGuo/GSYFlutterBook) - Flutter 完整开发实战详解系列
 -   [Best-Flutter-UI-Templates (2000+)](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
@@ -566,6 +570,7 @@ My Github Stars
 ##### UI
 
 -   [flutter_swiper (1000+)](https://github.com/best-flutter/flutter_swiper) - The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS.
+-   [giffy_dialog (300+)](https://github.com/xsahil03x/giffy_dialog) - A Flutter package for a quick and handy giffy dialog.
 
 ##### Tools
 
@@ -573,6 +578,8 @@ My Github Stars
 -   [fish-redux (5000+)](https://github.com/alibaba/fish-redux) - An assembled flutter application framework.
 -   [dio (5000+)](https://github.com/flutterchina/dio) - A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
 -   [alibaba / flutter_boost (2000+)](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
+-   [+ rxdart (2000+)](https://github.com/ReactiveX/rxdart) - The Reactive Extensions for Dart
+-   [flutter_barcode_reader (300+)](https://github.com/apptreesoftware/flutter_barcode_reader) - A flutter plugin for reading 2D barcodes and QR codes.
 
 ##### Apps
 
@@ -591,23 +598,23 @@ My Github Stars
 
 ##### Curated List
 
-- [awesome-react-native (21000+)](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-- [react-native-guide (13000+)](https://github.com/reactnativecn/react-native-guide) - React Native 指南汇集了各类 react-native 学习资源、开源 App 和组件。
+- [awesome-react-native (25000+)](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
+- [react-native-guide (15000+)](https://github.com/reactnativecn/react-native-guide) - React Native 指南汇集了各类 react-native 学习资源、开源 App 和组件。
 
 ##### Learning
 
-- [react-developer-roadmap (9000+)](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019
+- [react-developer-roadmap (15000+)](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019
 - [RNStudyNotes (3000+)](https://github.com/crazycodeboy/RNStudyNotes) - React Native 研究与实践
 
 ##### UI
 
-- [react-native-elements (13000+)](https://github.com/react-native-training/react-native-elements) - Cross Platform React Native UI Toolkit
+- [react-native-elements (20000+)](https://github.com/react-native-elements/react-native-elements) - Cross Platform React Native UI Toolkit
     - [react-native-paper (3000+)](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
     - [+ ant-design / ant-design-mobile-rn (1000+)](https://github.com/ant-design/ant-design-mobile-rn/) - A configurable Mobile UI specification and React-based implementation.
     - [+ Meituan-Dianping / beeshell (1000+)](https://github.com/Meituan-Dianping/beeshell) - React Native 组件库
 - [lottie-react-native (10000+)](https://github.com/react-community/lottie-react-native) - Lottie wrapper for React Native.
 - [+ react-native-vector-icons (9000+)](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.
-- [react-native-maps (8000+)](https://github.com/react-native-community/react-native-maps) - React Native Mapview component for iOS + Android (Google Map)
+- [react-native-community / react-native-maps (8000+)](https://github.com/react-native-community/react-native-maps) - React Native Mapview component for iOS + Android (Google Map)
   - [react-native-amap3d (600+)](https://github.com/qiuxiang/react-native-amap3d) - react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS
   - [react-native-baidumap-sdk (200+)](https://github.com/qiuxiang/react-native-baidumap-sdk) - React Native BaiduMap SDK for Android + iOS
 - [react-native-swiper (6000+)](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
@@ -629,26 +636,28 @@ My Github Stars
 
 ##### Tools
 
-- [react-redux (14000+)](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
-- [react-native-router-flux (7000+)](https://github.com/RNRF/react-native-router-flux) - The first declarative React Native router
+- [react-redux (20000+)](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
+- [react-native-router-flux (8000+)](https://github.com/RNRF/react-native-router-flux) - The first declarative React Native router
 - [Microsoft / react-native-code-push (5000+)](https://github.com/Microsoft/react-native-code-push) - Add a dynamic update experience to your React Native app(s).
 - [react-native-fs (3000+)](https://github.com/itinance/react-native-fs) - Native file system access for react-native
 - [react-native-device-info (3000+)](https://github.com/rebeccahughes/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-storage (2000+)](https://github.com/sunnylqm/react-native-storage) - local storage wrapper for both react-native and browser. Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query.
 - [react-native-wechat (2000+)](https://github.com/yorkie/react-native-wechat) - WeChat login, share, favorite and payment for React-Native on iOS and Android platforms.
+- [react-native-community / react-native-webview (2000+)](https://github.com/react-native-community/react-native-webview) - React Native Cross-Platform WebView
 - [reactnativecn / react-native-pushy (1000+)](https://github.com/reactnativecn/react-native-pushy) - React Native 中文网推出的代码热更新服务
 - [react-native-orientation (1000+)](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.
 - [rn-fetch-blob (1000+)](https://github.com/joltup/rn-fetch-blob) - A project committed to making file access and data transfer easier, efficient for React Native developers.
 - [react-native-audio (1000+)](https://github.com/jsierles/react-native-audio) - Audio recorder library for React Native
+- [react-native-community / async-storage (1000+)](https://github.com/react-native-community/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
 - [react-native-status-bar-height (200+)](https://github.com/ovr/react-native-status-bar-height) - Small library that helps you to get status bar height.
 - [react-native-puti-pay (200+)](https://github.com/puti94/react-native-puti-pay) - 基于 React Native 的微信支付，支付宝支付插件
 
 ##### Developer Tools
 
 - [reactotron (10000+)](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
-- [ignite (9000+)](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
-- [react-native-debugger (4300+)](https://github.com/jhen0409/react-native-debugger) - The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
-- [react-native-sentry (400+)](https://github.com/getsentry/react-native-sentry) - Open-source error tracking that helps developers monitor and fix crashes in real time.
+- [ignite (10000+)](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
+- [react-native-debugger (6000+)](https://github.com/jhen0409/react-native-debugger) - The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
+- [react-native-sentry (500+)](https://github.com/getsentry/react-native-sentry) - Open-source error tracking that helps developers monitor and fix crashes in real time.
 
 ##### Apps
 
@@ -740,6 +749,7 @@ My Github Stars
 - [facebook / jest (20000+)](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [redux-devtools-extension (8000+)](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
 - [Tencent / vConsole (7000+)](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
+- [appwrite (2000+)](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile developers.
 
 
 
@@ -749,14 +759,14 @@ My Github Stars
 
 #### Curated List
 
-- [awesome-java (18000+)](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+- [awesome-java (20000+)](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 
 #### Learning
 
-- [interviews (34000+)](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-- [JavaGuide (12000+)](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [advanced-java (7000+)](https://github.com/doocs/advanced-java) - 互联网 Java 工程师进阶知识完全扫盲
-- [ssm (4000+)](https://github.com/liyifeng1994/ssm) - 手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis
+- [JavaGuide (60000+)](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [interviews (40000+)](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
+- [advanced-java (30000+)](https://github.com/doocs/advanced-java) - 互联网 Java 工程师进阶知识完全扫盲
+- [ssm (5000+)](https://github.com/liyifeng1994/ssm) - 手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis
 
 #### Tools
 
@@ -773,9 +783,9 @@ My Github Stars
 
 #### Developer Tools
 
-- [alibaba / tengine (8000+)](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
-- [ctripcorp / apollo (8000+)](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
-- [scouter (1200)](https://github.com/scouter-project/scouter) - Scouter is an open source APM (Application Performance Management) tool.
+- [ctripcorp / apollo (20000+)](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
+- [alibaba / tengine (10000+)](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
+- [scouter (1500)](https://github.com/scouter-project/scouter) - Scouter is an open source APM (Application Performance Management) tool.
 
 #### Unit Test
 
@@ -790,28 +800,27 @@ My Github Stars
 
 #### Learning
 
-- [tensorflow / tensorflow (113000+)](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+- [tensorflow (130000+)](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [tensorflow-zh (10000+)](https://github.com/jikexueyuanwiki/tensorflow-zh) - 谷歌全新开源人工智能系统 TensorFlow 官方文档中文版
 - [practicalAI (10000+)](https://github.com/GokuMohandas/practicalAI) - A practical approach to learning machine learning.
-- [the-craft-of-selfteaching (6000+)](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 
 #### Tools
 
-- [scrapy / scrapy (30000+)](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [scrapy / scrapy (35000+)](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [funNLP (10000+)](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、各种词库等
 - [chinese-xinhua (5000+)](https://github.com/pwxcoo/chinese-xinhua) - 📙 中华新华字典数据库。包括歇后语，成语，词语，汉字。
-- [funNLP (1500+)](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、各种词库等
 
 #### Apps
 
 ##### Curalted List
 
-- [awesome-python-applications (3300+)](https://github.com/mahmoud/awesome-python-applications) - Free software that works great, and also happens to be open-source Python.
+- [awesome-python-applications (10000+)](https://github.com/mahmoud/awesome-python-applications) - Free software that works great, and also happens to be open-source Python.
+- [awesome-spider (10000+)](https://github.com/facert/awesome-spider) - 爬虫集合
 
 ##### Core
 
-- [pix2code (9700+)](https://github.com/tonybeltramelli/pix2code) - Generating Code from a Graphical User Interface Screenshot
-- [awesome-spider (6000+)](https://github.com/facert/awesome-spider) - 爬虫集合
-- [faceai (2000+)](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目
+- [pix2code (10000+)](https://github.com/tonybeltramelli/pix2code) - Generating Code from a Graphical User Interface Screenshot
+- [faceai (5000+)](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目
 
 
 
@@ -821,9 +830,9 @@ My Github Stars
 
 #### Books
 
-- [free-programming-books (113000+)](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books
-- [free-programming-books-zh_CN (40000+)](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍
-- [grokking_algorithms (2000+)](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
+- [free-programming-books (130000+)](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books
+    - [free-programming-books-zh_CN (60000+)](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍
+- [grokking_algorithms (3000+)](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
 
 #### Core
 
@@ -845,7 +854,7 @@ My Github Stars
 
 #### Practice
 
-- [app-ideas (4000+)](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
+- [app-ideas (7000+)](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
 #### Architecture
 
@@ -853,7 +862,7 @@ My Github Stars
 
 #### Learn for fun
 
-- [LeetCodeAnimation (6100+)](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解 LeetCode 题目的思路
+- [LeetCodeAnimation (40000+)](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解 LeetCode 题目的思路
 - [githug (5000+)](https://github.com/Gazler/githug) - Git your game on!
 
 #### Tools
@@ -868,10 +877,10 @@ My Github Stars
 
 #### Curated List
 
-- [awesome-mac (26000)](https://github.com/jaywcjlove/awesome-mac) - Now we have become very big, Different from the original idea. Collect premium software in various categories.
-    - [open-source-mac-os-apps (14000+)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
+- [awesome-mac (30000)](https://github.com/jaywcjlove/awesome-mac) - Now we have become very big, Different from the original idea. Collect premium software in various categories.
+    - [open-source-mac-os-apps (20000+)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
     - [tool (3000+)](https://github.com/Louiszhai/tool) - 开发效率提升：Mac 生产力工具链推荐
-- [Awesome-Windows (5000+)](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows.
+- [Awesome-Windows (10000+)](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows.
     - [Amazing-Windows-Apps (1000+)](https://github.com/AmazingApps/Amazing-Windows-Apps/tree/master/zh-CN) - Windows 绝赞应用
 - [trinea-download (500+)](https://github.com/Trinea/trinea-download) - Some open project apk files, or other files upload by trinea.cn
 - [useful-tools (300+)](https://github.com/shenzekun/useful-tools) - 🔨 一些有用的工具网站
@@ -891,7 +900,7 @@ My Github Stars
 
 ##### Chrome Extensions
 
-- [vimium (9000+)](https://github.com/philc/vimium) - The hacker's browser.
+- [vimium (10000+)](https://github.com/philc/vimium) - The hacker's browser.
 - [chrome-github-mate (300+)](https://github.com/camsong/chrome-github-mate) - Chrome extension to make single file download effortless and with more features
 
 ##### Cross the GFW
@@ -939,6 +948,7 @@ My Github Stars
 - [FreeRDP (2000+)](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [auxpi (1000+)](https://github.com/aimerforreimu/auxpi) - 集合多家 API 的新一代**图床**
 - [Shuang (500+)](https://github.com/BlueSky-07/Shuang) - 双拼练习 https://api.ihint.me/shuang
+- [GitHubUsersWallOnREADME](https://github.com/AdlerED/GitHubUsersWallOnREADME) - 自动将GitHub用户批量渲染生成为README中的用户名&&头像墙
 
 
 
@@ -990,7 +1000,7 @@ My Github Stars
 - [the-book-of-secret-knowledge (20000+)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
 - [HelloGitHub (15000+)](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣
 
-#### Other Tools
+#### Some Tools
 
 - [github / gitignore (90000+)](https://github.com/github/gitignore) - A collection of useful .gitignore templates
     - [github / choosealicense.com (1500+)](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project.
@@ -1002,6 +1012,7 @@ My Github Stars
 
 ##### Blog Setup
 
+- [gatsby (40000+)](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [Ghost (30000+)](https://github.com/TryGhost/Ghost) - The platform for professional publishers
   - [Ghost-Admin (300+)](https://github.com/TryGhost/Ghost-Admin) - Ghost's admin client
 - [hexo (25000+)](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -1010,7 +1021,9 @@ My Github Stars
   - [hexo-theme-yilia (2000+)](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo 主题
   - [hexo-theme-indigo (2000+)](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。 https://imys.net/
   - [hexo-theme-cactus (1000+)](https://github.com/probberechts/hexo-theme-cactus) - A responsive, clean and simple theme for Hexo.
-- [WordPress (13000+)](https://github.com/WordPress/WordPress) - WordPress, Git-ified.
+  - [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) - Feed generator for Hexo.
+- [WordPress (15000+)](https://github.com/WordPress/WordPress) - WordPress, Git-ified.
+- [vuepress (15000+)](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator
 - [solo (10000+)](https://github.com/b3log/solo) - 一款小而美的博客系统，专为程序员设计。
 - [saber (2000+)](https://github.com/saberland/saber) - A static website generator for building blazing fast websites with Vue.js
 - [Mirror (500+)](https://github.com/LoeiFy/Mirror) - A blogging tool powered by GitHub API. Write your blog on GitHub issue.
@@ -1018,14 +1031,15 @@ My Github Stars
 #### How To
 
 - [hangzhou_house_knowledge (20000+)](https://github.com/houshanren/hangzhou_house_knowledge) - 买房购房知识分享
+- [How-To-Ask-Questions-The-Smart-Way (8000+)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 如何正确地提问，原文：[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [how-to-make-more-money (7000+)](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
     - [awesome-indie-zh (500+)](https://github.com/apachecn/awesome-indie-zh) - 独立开发/自由职业/远程工作资源列表
     - [awesome-indie (100+)](https://github.com/josephchang10/awesome-indie) - awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理
     - [fin-circle](https://github.com/hapiman/fin-circle) - 探讨技术、金融、赚钱的小圈子！
-- [How-To-Ask-Questions-The-Smart-Way (7000+)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 如何正确地提问，原文：[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 #### Uncategorized
 
 - [programmer-job-blacklist (25000+)](https://github.com/shengxinjing/programmer-job-blacklist) - 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 - [libra / libra (10000+)](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [chinese-independent-blogs (1000+)](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [GAAS (500+)](https://github.com/generalized-intelligence/GAAS) - Generalized Aviation: Open source autonomous aviation and drone intelligence software platform, designed for drones and VTOLs.

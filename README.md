@@ -25,13 +25,15 @@ My Github Stars
   - [MeiWidgetView (1000+)](https://github.com/HpWens/MeiWidgetView) - 自定义控件集合库
 - [android-open-project (30000+)](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects
   - [+ awesome-android (7000+)](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
-- [+ awesome-adb (6000+)](https://github.com/mzlogin/awesome-adb) - ADB 用法大全
-- [android-lifecycles (500+)](https://github.com/JoseAlcerreca/android-lifecycles) - The Android Lifecycle cheat sheet
 
 #### Learning
 
 - [android_guides (25000+)](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
   - [Android_Data (8000+)](https://github.com/Freelander/Android_Data) - Android 学习资料收集
+- [android-best-practices (18000+)](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
+  - [android-tips-tricks (4000+)](https://github.com/nisrulz/android-tips-tricks) - [Cheatsheet] Tips and tricks for Android Development
+  - [Android-Tips (3000+)](https://github.com/tangqi92/Android-Tips) - An awesome list of tips for Android.
+  - [awesome-android-tips (2000+)](https://github.com/jiang111/awesome-android-tips) - some code tips for android 💯
 - [LearningNotes (12000+)](https://github.com/francistao/LearningNotes) - Android 开发：从基础到算法再到应用
   - [+ AndroidNote (7000+)](https://github.com/GcsSloop/AndroidNote) - 安卓学习笔记
   - [Android-ReadTheFuckingSourceCode (500+)](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode) - 记录日常开发中遇到的技术重点，难点，知识点总结，读书笔记，面试题，个人分享等。
@@ -40,12 +42,10 @@ My Github Stars
 - [android-open-project-analysis (6000+)](https://github.com/android-cn/android-open-project-analysis) - Analysis implementation of android open source project.
   - [AndroidSdkSourceAnalysis (5000+)](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - Android Sdk 源码解析——旨在帮助 Android 开发者更好的学习 Android！
   - [android-open-framework-analysis (300+)](https://github.com/sucese/android-open-framework-analysis) - Android open framework analysis
-- [android-best-practices (18000+)](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
-  - [android-tips-tricks (4000+)](https://github.com/nisrulz/android-tips-tricks) - [Cheatsheet] Tips and tricks for Android Development
-  - [Android-Tips (3000+)](https://github.com/tangqi92/Android-Tips) - An awesome list of tips for Android.
-  - [awesome-android-tips (2000+)](https://github.com/jiang111/awesome-android-tips) - some code tips for android 💯
+- [+ awesome-adb (6000+)](https://github.com/mzlogin/awesome-adb) - ADB 用法大全
 - [+ Android-Daily-Interview (2000+)](https://github.com/Moosphan/Android-Daily-Interview) - 每工作日更新一道 Android 面试题，小聚成河，大聚成江，共勉之～
 - [+ UI2018 (1000+)](https://github.com/zincPower/UI2018) - 安卓高级 UI 代码整理和博客代码 Demo
+- [android-lifecycles (500+)](https://github.com/JoseAlcerreca/android-lifecycles) - The Android Lifecycle cheat sheet
 
 #### UI
 
@@ -118,7 +118,8 @@ My Github Stars
     - [MaterialDateTimePicker (3000+)](https://github.com/wdullaer/MaterialDateTimePicker) - Pick a date or time on Android in style.
         - [SpinnerDatePicker (300+)](https://github.com/drawers/SpinnerDatePicker) - A styleable DatePicker for Android using the old spinner style
     - [CityPicker (2000+)](https://github.com/zaaach/CityPicker) - 城市选择、定位、搜索及右侧字母导航，类似美团 百度糯米 饿了么等APP选择城市功能
-- [+ Fragmentation (10000+)](https://github.com/YoKeyword/Fragmentation) - A powerful library that manage Fragment for Android!
+- [Fragmentation (10000+)](https://github.com/YoKeyword/Fragmentation) - [DEPRECATED] A powerful library that manage Fragment for Android!
+    - [+ bytedance / scene (1000+)](https://github.com/bytedance/scene) - Android Single Activity Applications framework without Fragment.
 - [mikepenz / MaterialDrawer (10000+)](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
 - [banner (10000+)](https://github.com/youth5201314/banner) - Android 广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
     - [BGABanner-Android (4000+)](https://github.com/bingoogolapple/BGABanner-Android) - 引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果
@@ -139,7 +140,6 @@ My Github Stars
 - [PageIndicatorView (3500+)](https://github.com/romandanylyk/PageIndicatorView) - An page indicator for Android ViewPager
   - [dotsindicator (1000+)](https://github.com/tommybuonomo/dotsindicator) - Three material Dots Indicators for view pagers in Android!
   - [CircleIndicator (200+)](https://github.com/THEONE10211024/CircleIndicator) - A lightweight viewpager indicator!
-- [PagerSlidingTabStrip (2000+)](https://github.com/jpardogo/PagerSlidingTabStrip) - An interactive indicator to navigate between the different pages of a ViewPager
 - [ViewpagerTransition (2000+)](https://github.com/xmuSistone/ViewpagerTransition)  - Viewpager with parallax pages, together with vertical sliding (or click) and activity transition
   - [ViewPagerTransforms (2000+)](https://github.com/ToxicBakery/ViewPagerTransforms) - Library containing common animations needed for transforming ViewPager scrolling for Android v13+.
 - [camerakit-android (5000+)](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
@@ -217,6 +217,7 @@ My Github Stars
 - [+ VoiceLine (300+)](https://github.com/ws123/VoiceLine) - 一个可以根据麦克风音量大小，显示一些波形效果的控件。
 - [PlayPauseView (300+)](https://github.com/Lauzy/PlayPauseView) - Let the play and pause button transition gracefully
 - [CameraVideoButton (100+)](https://github.com/iammert/CameraVideoButton) - Instagram like animated button for taking photo or recording video.
+- [FormValidator (50+)](https://github.com/ShabanKamell/FormValidator) - 支持格式验证的 EditText
 
 ##### Animations
 
@@ -239,7 +240,7 @@ My Github Stars
   - [easydeviceinfo (1000+)](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way.
     - [MobileInfo (100+)](https://github.com/guxiaonian/MobileInfo) - Android 手机可以获取的所有信息
   - [Utils-Everywhere (200+)](https://github.com/SenhLinsh/Utils-Everywhere) - 整理并收集各种常用的覆盖面广的工具类
-  - [TalentRAT (100+)](https://github.com/honglvt/TalentRAT) - Get some sensitive info and do things in background, such as take a photo or record audio and video.
+  - [+ TalentRAT (100+)](https://github.com/honglvt/TalentRAT) - Get some sensitive info and do things in background, such as take a photo or record audio and video.
 - [AndroidQuick (200+)](https://github.com/sdwfqin/AndroidQuick) - 做外包用的快速开发库--微信、支付宝支付（含签名，下单）、自定义View（验证码/密码，九宫格图片上传等）、图片预览、RxJava、EventBus、base层封装等
 
 ##### Core
@@ -275,6 +276,10 @@ My Github Stars
 - [Tencent / MMKV (5000+)](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android.
 - [JakeWharton / DiskLruCache (5000+)](https://github.com/JakeWharton/DiskLruCache) - Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
   - [ASimpleCache (3000+)](https://github.com/yangfuhai/ASimpleCache) - A simple cache for Android and Java
+- [FastBle (3500+)](https://github.com/Jasonchenlijian/FastBle) - Android Bluetooth Low Energy (BLE) Fast Development Framework.
+    - [RxAndroidBle (2500+)](https://github.com/Polidea/RxAndroidBle) - An Android Bluetooth Low Energy (BLE) Library with RxJava2 interface
+    - [Android-BluetoothKit (2000+)](https://github.com/dingjikerbo/Android-BluetoothKit) - Android BLE 蓝牙通信库
+    - [Android-BLE (1000+)](https://github.com/Alex-Jerry/Android-BLE) - Android BLE 蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和 OTA 升级以及各种直观的回调，近乎一行代码植入项目，可扩展配置蓝牙相关操作。
 - [icepick (3500+)](https://github.com/frankiesardo/icepick) - Android Instance State made easy
 - [parceler (3500+)](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation.
 - [Bolts-Android (3000+)](https://github.com/BoltsFramework/Bolts-Android) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier. (Tasks and App links)
@@ -283,10 +288,8 @@ My Github Stars
   - [joda-time-android (2500+)](https://github.com/dlew/joda-time-android) - Joda-Time library with Android specialization
 - [AppUpdate (3000+)](https://github.com/WVector/AppUpdate) - Android 版本更新
   - [XUpdate (500+)](https://github.com/xuexiangjys/XUpdate) - 一个轻量级、高可用性的 Android 版本更新框架
+- [sensey (2500+)](https://github.com/nisrulz/sensey) - Play with sensor events & detect gestures in a breeze.
 - [TinyPinyin (2000+)](https://github.com/promeG/TinyPinyin) - 适用于 Java 和 Android 的快速、低内存占用的汉字转拼音库。
-- [RxAndroidBle (2000+)](https://github.com/Polidea/RxAndroidBle) - An Android Bluetooth Low Energy (BLE) Library with RxJava2 interface
-  - [Android-BluetoothKit (2000+)](https://github.com/dingjikerbo/Android-BluetoothKit) - Android BLE 蓝牙通信库
-  - [Android-BLE (1000+)](https://github.com/Alex-Jerry/Android-BLE) - Android BLE 蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和 OTA 升级以及各种直观的回调，近乎一行代码植入项目，可扩展配置蓝牙相关操作。
 - [ReLinker (2000+)](https://github.com/KeepSafe/ReLinker) - A robust native library loader for Android.
 - [facebook / network-connection-class (2000+)](https://github.com/facebook/network-connection-class) - Listen to current network traffic in the app and categorize the quality of the network.
 - [android-hidden-api (2000+)](https://github.com/anggrayudi/android-hidden-api) - A library that provides access to Android hidden APIs and internal resources.
@@ -868,7 +871,7 @@ My Github Stars
 
 ##### Chrome Extensions
 
-- [ChromeAppHeroes (10000+)](https://github.com/zhaoolee/ChromeAppHeroes) - Chrome 插件英雄榜,
+- [ChromeAppHeroes (10000+)](https://github.com/zhaoolee/ChromeAppHeroes) - Chrome 插件英雄榜
 - [vimium (10000+)](https://github.com/philc/vimium) - The hacker's browser.
 - [chrome-github-mate (300+)](https://github.com/camsong/chrome-github-mate) - Chrome extension to make single file download effortless and with more features
 
@@ -945,6 +948,7 @@ My Github Stars
 - [readme-md-generator (2000+)](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files
 - [screenFetch (2000+)](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [lsix (2000+)](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+- [onefetch (2000+)](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [asar (1500+)](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [yank (1000+)](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [- NSudo (300+)](https://github.com/M2Team/NSudo) - A Powerful System Administration Tool for Windows (Not Recomanded)
@@ -971,7 +975,8 @@ My Github Stars
 - [public-apis (60000+)](https://github.com/public-apis/public-apis) - A collective list of public JSON APIs for use in web development.
   - [Awesome_APIs (5000+)](https://github.com/TonnyL/Awesome_APIs) - A collection of APIs.
   - [NeteaseCloudMusicApi (10000+)](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-  - [douban-api (>10)](https://github.com/xsbailong/douban-api) - 豆瓣 API 文档
+  - [RollToolsApi (2000+)](https://github.com/MZCretin/RollToolsApi) - 一个提供开发中常用数据的一个稳定聚合Api接口源
+  - [douban-api-docs (500+)](https://github.com/zce/douban-api-docs) - 豆瓣 API 文档
 
 ##### Build Website & Blog
 
@@ -987,7 +992,7 @@ My Github Stars
   - [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) - Feed generator for Hexo.
 - [WordPress (15000+)](https://github.com/WordPress/WordPress) - WordPress, Git-ified.
 - [vuepress (15000+)](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator
-- [solo (10000+)](https://github.com/b3log/solo) - 一款小而美的博客系统，专为程序员设计。
+- [solo (10000+)](https://github.com/88250/solo) - 一款小而美的博客系统，专为程序员设计。
 - [saber (2000+)](https://github.com/saberland/saber) - A static website generator for building blazing fast websites with Vue.js
 - [Mirror (500+)](https://github.com/LoeiFy/Mirror) - A blogging tool powered by GitHub API. Write your blog on GitHub issue.
 
@@ -999,6 +1004,7 @@ My Github Stars
   - [awesome-indie-zh (500+)](https://github.com/apachecn/awesome-indie-zh) - 独立开发/自由职业/远程工作资源列表
   - [awesome-indie (100+)](https://github.com/josephchang10/awesome-indie) - awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理
   - [fin-circle](https://github.com/hapiman/fin-circle) - 探讨技术、金融、赚钱的小圈子！
+- [chinese-copywriting-guidelines (7000+)](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案如何排版
 
 #### Uncategorized
 

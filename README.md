@@ -1,7 +1,7 @@
 My Github Stars
 ---
 
-随着使用 Github 时间的增加，star 的项目也越来越多，所以把自己 star 过的项目整理分类还是挺有必要的，比如为了以后查找方便。想象一下，当需要寻找某方面资料的时候，扫一眼分类列表，正好找到想要的资料的那种窃喜，而且那些偶然发现的项目说不定也会被重新翻出来。另外，我觉得这也是一种分享，如果每个人都把自己的 star 的项目分分类，那么其他人就可以更方便地浏览，从中发现自己也感兴趣的项目。
+随着使用 Github 时间的增加，star 的项目也越来越多，为了以后查找方便，把自己 star 过的项目整理分类还是挺有必要的。想象一下，当需要寻找某方面资料的时候，扫一眼分类列表，正好找到类似项目时的那种窃喜。另外，我觉得这也是一种分享，如果每个人都把自己的 star 的项目分好类，其他人就可以更方便地浏览，发现他们也感兴趣的项目。
 
 我 star 的项目比较杂，有时候作者只是实现了一个很简单的功能，或者只是一个小 demo，哪怕已经不维护了，只要对我有学习意义，一般也会随手点个 star。因为我发现很多时候正是这些小项目给我提供了灵感，或者解决了困扰我很久的一个问题。
 
@@ -11,7 +11,7 @@ My Github Stars
 
 归类 star 的项目的想法最初来自于 [ChessLuo](https://github.com/ChessLuo/GitHubNotes)。
 
-*注：名字前带 - 表示不推荐使用，带 \+ 表示特别关注，以 star 数作为排名只是为了说明项目当时的受欢迎程度。*
+*注：名字前带 - 表示不推荐使用，带 \+ 表示特别关注，以 star 数作为排名只是为了说明项目的热门程度。*
 
 ---
 
@@ -160,18 +160,21 @@ My Github Stars
   - [NewbieGuide (1800+)](https://github.com/huburt-Hu/NewbieGuide) - Android 快速实现新手引导层的库，通过简洁链式调用，一行代码实现引导层的显示
 - [+ XPopup (3000+)](https://github.com/li-xiaojun/XPopup) - 功能强大，UI 简洁，交互优雅的通用弹窗！可以替代 Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout 等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！
   - [BasePopup (3000+)](https://github.com/razerdp/BasePopup) - Android 下打造通用便捷的 PopupWindow
+  - [+ MaterialPopupMenu (500+)](https://github.com/zawadz88/MaterialPopupMenu) - Shows Material popup menus grouped in sections & more
   - [RelativePopupWindow (500+)](https://github.com/kakajika/RelativePopupWindow) - Android PopupWindow that can be easily located relative to anchor View.
   - [PopLayer (200+)](https://github.com/MrCodeSniper/PopLayer) - 通用Android端弹窗管理框架，支持带网络请求的业务流程管理，内部维护弹窗优先级队列，具备弹窗管理扩展功能，整合 Dialog/PoupoWindow/悬浮Widget/透明Webview/Toast/SnackBar，无需再为繁琐的业务弹窗逻辑所困扰
 - [Android-skin-support (3000+)](https://github.com/ximsfei/Android-skin-support) - Android-skin-support is an easy to use dynamic skin framework for Android, Only one line of code to integrate it.
   - [bilibili / MagicaSakura (3000+)](https://github.com/bilibili/MagicaSakura) - MagicaSakura 是 Android 多主题框架。
 - [RichText (2000+)](https://github.com/zzhoujay/RichText) - Android 平台下的富文本解析器，支持 Html 和 Markdown
     - [HTextView (4500+)](https://github.com/hanks-zyh/HTextView) - Animation effects to text, not really textview
+    - [SuperTextView (3000+)](https://github.com/lygttpod/SuperTextView) - a super textview for android
     - [ExpandableTextView (3000+)](https://github.com/Manabu-GT/ExpandableTextView) - Android's TextView that can expand/collapse like the Google Play's app description
     - [MarqueeView (2000+)](https://github.com/sunfusheng/MarqueeView) - 可垂直跑、可水平跑的跑马灯
+    - [+ Better-Link-Movement-Method (500+)](https://github.com/saket/Better-Link-Movement-Method) - A custom LinkMovementMethod for TextView that attempts to improve how clickable links are detected, highlighted and handled.
     - [URLEmbeddedView (100+)](https://github.com/nguyencse/URLEmbeddedView) - Preview URL for Android
     - [+ FontTextView](https://github.com/whinc/FontTextView) - This library include some custom views and a util class help you replace android default font in different ways.(keyword:Font TextView, Custom TextView)
-- [Skeleton (2000+)](https://github.com/ethanhua/Skeleton) - A library provides an easy way to show skeleton loading view like Facebook and Alipay.
-    - [Broccoli (200+)](https://github.com/samlss/Broccoli) - An Android library that shows the placeholder of the view.
+- [+ Skeleton (2000+)](https://github.com/ethanhua/Skeleton) - A library provides an easy way to show skeleton loading view like Facebook and Alipay.
+    - [Broccoli (500+)](https://github.com/samlss/Broccoli) - An Android library that shows the placeholder of the view.
 - [mikepenz / AboutLibraries (2000+)](https://github.com/mikepenz/AboutLibraries) - AboutLibraries is a library to offer some information of libraries.
     - [MaterialAbout (1500+)](https://github.com/jrvansuita/MaterialAbout) - It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate.
     - [CustomActivityOnCrash (2000+)](https://github.com/Ereza/CustomActivityOnCrash) - Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
@@ -230,6 +233,7 @@ My Github Stars
 - [spruce-android (3000+)](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
 - [BezierMaker (1000+)](https://github.com/venshine/BezierMaker) - 通过 de Casteljau 算法绘制贝塞尔曲线，并计算它的切线，实现 1-7 阶贝塞尔曲线的形成动画。
     - [ToggleDrawable (1000+)](https://github.com/renaudcerrato/ToggleDrawable) - Easy drawable animation using beziers curves.
+- [Animer (200+)](https://github.com/MartinRGB/Animer) - for a better Android Experience
 
 #### Tools
 
@@ -263,6 +267,7 @@ My Github Stars
 - [google / dagger (15000+)](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [greenDAO (10000+)](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
   - [DBFlow (4000+)](https://github.com/agrosner/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
+  - [+ objectbox-java (3000+)](https://github.com/objectbox/objectbox-java) - ObjectBox is a superfast lightweight database for objects
 - [androidannotations (10000+)](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance.
 - [PermissionsDispatcher (8000+)](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
   - [AndPermission (5000+)](https://github.com/yanzhenjie/AndPermission) - Permissions manager for Android platform.
@@ -423,13 +428,13 @@ My Github Stars
 
 #### Kotlin
 
-- [JetBrains / kotlin (25000+)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
+- [JetBrains / kotlin (30000+)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 
 ##### Curated List
 
-- [awesome-kotlin (5000+)](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+- [awesome-kotlin (8000+)](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [kotlin_tips (1000+)](https://github.com/heimashi/kotlin_tips) - 用 Kotlin 去提高生产力：汇总 Kotlin 相对于 Java 的优势，以及怎么用 Kotlin 去简洁、务实、高效、安全开发的 Tips
-  - [30-seconds-of-kotlin (<100)](https://github.com/IvanMwiruki/30-seconds-of-kotlin) - Curated collection of useful Kotlin 1.3 snippets that you can understand quickly, using only stdlib functionality.
+  - [30-seconds-of-kotlin (200+)](https://github.com/IvanMwiruki/30-seconds-of-kotlin) - Curated collection of useful Kotlin 1.3 snippets that you can understand quickly, using only stdlib functionality.
 
 ##### Learning
 
@@ -442,12 +447,14 @@ My Github Stars
 
 ##### Tools
 
-- [kotlinx.coroutines (5000+)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-- [ktor (4200+)](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
-- [koin (3000+)](https://github.com/InsertKoinIO/koin) - a pragmatic lightweight dependency injection framework for Kotlin
-- [MvRx (2000+)](https://github.com/airbnb/MvRx) - MvRx: Android on Autopilot
+- [kotlinx.coroutines (6000+)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
+- [ktor (6000+)](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [koin (5000+)](https://github.com/InsertKoinIO/koin) - a pragmatic lightweight dependency injection framework for Kotlin
+- [MvRx (3000+)](https://github.com/airbnb/MvRx) - MvRx: Android on Autopilot
+- [sqldelight (3000+)](https://github.com/cashapp/sqldelight) - Generates typesafe Kotlin APIs from SQL
 - [create-android-kotlin-app (1000+)](https://github.com/nekocode/create-android-kotlin-app) - Create android kotlin app with one line of command.
 - [kotlin-statistics (500+)](https://github.com/thomasnield/kotlin-statistics) - Idiomatic statistical operators for Kotlin
+- [Validator (100+)](https://github.com/anderscheow/Validator) - A tool to validate text inside TextInputLayout
 
 #### Samples & Apps
 
@@ -873,13 +880,14 @@ My Github Stars
 
 - [ChromeAppHeroes (10000+)](https://github.com/zhaoolee/ChromeAppHeroes) - Chrome 插件英雄榜
 - [vimium (10000+)](https://github.com/philc/vimium) - The hacker's browser.
+- [Bookmark_Sidebar (300+)](https://github.com/Kiuryy/Bookmark_Sidebar) - Chrome extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 - [chrome-github-mate (300+)](https://github.com/camsong/chrome-github-mate) - Chrome extension to make single file download effortless and with more features
 
 ##### Cross the GFW
 
 - [Shadowsocks (30000+)](https://github.com/shadowsocks/shadowsocks)
   - [shadowsocks / shadowsocks-windows (40000+)](https://github.com/shadowsocks/shadowsocks-windows) - Windows Client
-  - [shadowsocks / ShadowsocksX-NG (20000+)](https://github.com/shadowsocks/ShadowsocksX-NG) - Mac OS X Client
+  - [shadowsocks / ShadowsocksX-NG (20000+)](https://github.com/shadowsocks/ShadowsocksX-NG) - macOS GUI Client
   - [shadowsocks / shadowsocks-android (20000+)](https://github.com/shadowsocks/shadowsocks-android) - Android Client
   - [shadowsocks / shadowsocks-qt5 (8000+)](https://github.com/shadowsocks/shadowsocks-qt5) - Linux GUI Client
   - [Jigsaw-Code / outline-client (5000+)](https://github.com/Jigsaw-Code/outline-client) - [iOS Client](https://apps.apple.com/app/outline-app/id1356178125)
@@ -901,8 +909,8 @@ My Github Stars
 
 - [proxyee-down (25000+)](https://github.com/proxyee-down-org/proxyee-down) - http 下载工具，基于http代理，支持多连接分块下载
   - [Motrix (3000+)](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [baidu-netdisk-downloaderx (15000+)](https://github.com/b3log/baidu-netdisk-downloaderx) - 一款图形界面的百度网盘不限速下载器。 
-  - [pan-light (5000+)](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
+- [baidu-netdisk-downloaderx (15000+)](https://github.com/88250/baidu-netdisk-downloaderx) - 一款图形界面的百度网盘不限速下载器。 
+  - [pan-light (10000+)](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 - [Magisk (8000+)](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
   - [Pix3lify](https://github.com/Magisk-Modules-Repo/Pix3lify) - A Magisk module that can bring you the Pixel UI without the need to install custom ROMs.
 - [py12306 (7000+)](https://github.com/pjialin/py12306) - 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
@@ -951,10 +959,10 @@ My Github Stars
 - [onefetch (2000+)](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [asar (1500+)](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [yank (1000+)](https://github.com/mptre/yank) - Yank terminal output to clipboard
-- [- NSudo (300+)](https://github.com/M2Team/NSudo) - A Powerful System Administration Tool for Windows (Not Recomanded)
+- [- NSudo (500+)](https://github.com/M2Team/NSudo) - A Powerful System Administration Tool for Windows
 - [splash-cli (200+)](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash
 - [yddict (200+)](https://github.com/kenshinji/yddict) - 一个命令行查单词的工具
-- [qrgo (<100)](https://github.com/elsesiy/qrgo) - Fast & simple service to generate QR codes from your CLI.
+- [qrgo (100+)](https://github.com/elsesiy/qrgo) - Fast & simple service to generate QR codes from your CLI.
 
 ### Others
 
@@ -983,13 +991,11 @@ My Github Stars
 - [gatsby (40000+)](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [hugo (40000+)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [Ghost (30000+)](https://github.com/TryGhost/Ghost) - The platform for professional publishers
-  - [Ghost-Admin (300+)](https://github.com/TryGhost/Ghost-Admin) - Ghost's admin client
 - [hexo (30000+)](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
   - [hexo-theme-next (5000+)](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
   - [hexo-theme-yilia (2000+)](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo 主题
   - [hexo-theme-indigo (2000+)](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。 https://imys.net/
   - [hexo-theme-cactus (1000+)](https://github.com/probberechts/hexo-theme-cactus) - A responsive, clean and simple theme for Hexo.
-  - [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) - Feed generator for Hexo.
 - [WordPress (15000+)](https://github.com/WordPress/WordPress) - WordPress, Git-ified.
 - [vuepress (15000+)](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator
 - [solo (10000+)](https://github.com/88250/solo) - 一款小而美的博客系统，专为程序员设计。
@@ -1010,5 +1016,4 @@ My Github Stars
 
 - [programmer-job-blacklist (25000+)](https://github.com/shengxinjing/programmer-job-blacklist) - 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 - [libra / libra (10000+)](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
-- [JAViewer (4000+)](https://github.com/SplashCodes/JAViewer) - 更优雅的驾车体验
 - [GAAS (500+)](https://github.com/generalized-intelligence/GAAS) - Generalized Aviation: Open source autonomous aviation and drone intelligence software platform, designed for drones and VTOLs.

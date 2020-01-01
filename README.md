@@ -45,6 +45,8 @@ My Github Stars
 - [+ awesome-adb (6000+)](https://github.com/mzlogin/awesome-adb) - ADB 用法大全
 - [+ Android-Daily-Interview (2000+)](https://github.com/Moosphan/Android-Daily-Interview) - 每工作日更新一道 Android 面试题，小聚成河，大聚成江，共勉之～
 - [+ UI2018 (1000+)](https://github.com/zincPower/UI2018) - 安卓高级 UI 代码整理和博客代码 Demo
+- [android-art-res (1000+)](https://github.com/singwhatiwanna/android-art-res) - Android 开发艺术探索源码
+- [AndroidCustomView (1000+)](https://github.com/lygttpod/AndroidCustomView) - 带你在实战中学习自定义view，通过几个完整的例子带你走进自定义View的美妙世界
 - [android-lifecycles (500+)](https://github.com/JoseAlcerreca/android-lifecycles) - The Android Lifecycle cheat sheet
 
 #### UI
@@ -105,8 +107,11 @@ My Github Stars
 - [+ NestedTouchScrollingLayout (500+)](https://github.com/JarvisGG/NestedTouchScrollingLayout) - 处理子 View，父 View 嵌套滚动
 - [async-expandable-list (200+)](https://github.com/Ericliu001/async-expandable-list) - CollectionView and AsyncExpandableListView.
 
-##### Tool
+##### Core
 
+- [zxing / zxing (20000+)](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android.
+  - [zxing-android-embedded (3600+)](https://github.com/journeyapps/zxing-android-embedded) - Port of the ZXing Android application as an Android library project, for embedding in an Android application.
+  - [BGAQRCode-Android (4000+)](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
 - [SmartRefreshLayout (20000+)](https://github.com/scwang90/SmartRefreshLayout) - 下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的 Header 和 Footer。
   - [android-Ultra-Pull-To-Refresh (10000+)](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) - Ultra Pull to Refresh for Android. Support all the views.
 - [google / flexbox-layout (15000+)](https://github.com/google/flexbox-layout) - Flexbox for Android
@@ -177,10 +182,10 @@ My Github Stars
     - [Broccoli (500+)](https://github.com/samlss/Broccoli) - An Android library that shows the placeholder of the view.
 - [mikepenz / AboutLibraries (2000+)](https://github.com/mikepenz/AboutLibraries) - AboutLibraries is a library to offer some information of libraries.
     - [MaterialAbout (1500+)](https://github.com/jrvansuita/MaterialAbout) - It's a material-design about screen to use on your Android apps. A developer profile and application information easy to integrate.
-    - [CustomActivityOnCrash (2000+)](https://github.com/Ereza/CustomActivityOnCrash) - Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
     - [WhatsNew (500+)](https://github.com/TonnyL/WhatsNew) - WhatsNew automatically displays a short description of the new features when users update your app
 - [+ alibaba / Tangram-Android (2000+)](https://github.com/alibaba/Tangram-Android) - Tangram is a modular UI solution for building native page dynamically including Tangram for Android, Tangram for iOS and even backend CMS. This project provides the sdk on Android.
     - [alibaba / Virtualview-Android (1000+)](https://github.com/alibaba/Virtualview-Android) - A light way to build UI in custom XML.
+- [CustomActivityOnCrash (2000+)](https://github.com/Ereza/CustomActivityOnCrash) - Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
 - [ToastUtils (1000+)](https://github.com/getActivity/ToastUtils) - This is a very functional Toast
     - [UniversalToast (500+)](https://github.com/bboylin/UniversalToast) - 简洁优雅可点击的toast控件，无BadTokenException风险，关闭通知权限依然正常显示。
     - [CookieBar2 (400+)](https://github.com/AviranAbady/CookieBar2) - CookieBar2 is an Android library for displaying messages at the top or bottom of the screen.
@@ -257,9 +262,6 @@ My Github Stars
 - [square / okhttp (30000+)](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
 - [JakeWharton / butterknife (25000+)](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
   - [RxBinding (10000+)](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android's UI widgets.
-- [zxing / zxing (20000+)](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android.
-    - [zxing-android-embedded (3600+)](https://github.com/journeyapps/zxing-android-embedded) - Port of the ZXing Android application as an Android library project, for embedding in an Android application.
-    - [BGAQRCode-Android (4000+)](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
 - [EventBus (20000+)](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
   - [+ RxBus (2000+)](https://github.com/AndroidKnife/RxBus) - Event Bus By RxJava.
 - [alibaba / fastjson (20000+)](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
@@ -279,6 +281,7 @@ My Github Stars
   - [+ PRDownloader (2000+)](https://github.com/MindorksOpenSource/PRDownloader) - PRDownloader - A file downloader library for Android with pause and resume support
 - [+ evernote / android-job (5000+)](https://github.com/evernote/android-job) - Android library to handle jobs in the background.
 - [Tencent / MMKV (5000+)](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android.
+- [+ VirtualApp (5000+)](https://github.com/asLody/VirtualApp) - Virtual Engine for Android (Run Apk Without Installing)
 - [JakeWharton / DiskLruCache (5000+)](https://github.com/JakeWharton/DiskLruCache) - Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
   - [ASimpleCache (3000+)](https://github.com/yangfuhai/ASimpleCache) - A simple cache for Android and Java
 - [FastBle (3500+)](https://github.com/Jasonchenlijian/FastBle) - Android Bluetooth Low Energy (BLE) Fast Development Framework.
@@ -298,6 +301,7 @@ My Github Stars
 - [ReLinker (2000+)](https://github.com/KeepSafe/ReLinker) - A robust native library loader for Android.
 - [facebook / network-connection-class (2000+)](https://github.com/facebook/network-connection-class) - Listen to current network traffic in the app and categorize the quality of the network.
 - [android-hidden-api (2000+)](https://github.com/anggrayudi/android-hidden-api) - A library that provides access to Android hidden APIs and internal resources.
+- [condom (2000+)](https://github.com/oasisfeng/condom) - 一个超轻超薄的Android工具库，阻止三方SDK中常见的有害行为，而不影响应用自身的功能，例如严重影响用户体验的『链式唤醒』。
 - [- kymjs / KJFrameForAndroid (2000+)](https://github.com/kymjs/KJFrameForAndroid) - An Android library and includes ActivityFrame, KJHttp, KJBitmap, KJDataBase.
 - [RootTools (1000+)](https://github.com/Stericson/RootTools) - RootTools provides rooted developers a standardized set of tools for use in the development of rooted applications.
   - [libsu (300+)](https://github.com/topjohnwu/libsu) - Android library providing APIs to a Unix (root) shell
@@ -310,7 +314,7 @@ My Github Stars
   - [Recorder-Android](https://github.com/lijunzz/Recorder-Android) - 为 Android 录制 MP3 或 AAC 音频的库。
 - [AppIconNameChanger (500+)](https://github.com/myinnos/AppIconNameChanger) - Library to change Android launcher App Icon and App Name programmatically!
 - [+ alibaba / alpha (200+)](https://github.com/alibaba/alpha) - Alpha 是一个基于 PERT 图构建的 Android 异步启动框架，它简单，高效，功能完善。
-- [XPush (200+)](https://github.com/xuexiangjys/XPush) - 🚀一个轻量级、可插拔的Android消息推送框架。
+- [XPush (200+)](https://github.com/xuexiangjys/XPush) - 🚀一个轻量级、可插拔的 Android 消息推送框架。
 - [VirtualLocation (100+)](https://github.com/pengliangAndroid/VirtualLocation) - 免 Root 虚拟定位
 - [+ AndroidZip](https://github.com/Leo0618/AndroidZip) - Android 端 zip 压缩与解压，支持使用密码对文件进行压缩以及解压操作
 - [QRGenerator](https://github.com/androidmads/QRGenerator) - QR Generator Library
@@ -354,9 +358,8 @@ My Github Stars
   - [MVVMHabit (4000+)](https://github.com/goldze/MVVMHabit) - 基于谷歌最新 AAC 架构，MVVM设计模式的一套快速开发库，整合 Okhttp+RxJava+Retrofit+Glide 等主流模块，满足日常开发需求。
   - [MVVMLight (1000+)](https://github.com/Kelin-Hong/MVVMLight) - A toolkit help to build Android MVVM Application
   - [MVPArt (500+)](https://github.com/JessYanCoding/MVPArt) - A new Android MVP architecture (此框架旨在解决传统 MVP 类和接口太多, 并且 Presenter 和 View 通过接口通信过于繁琐, 重用 Presenter 代价太大等问题).
-- [VirtualApp (5000+)](https://github.com/asLody/VirtualApp) - Virtual Engine for Android (Run Apk Without Installing)
-- [Android-ZBLibrary (3200+)](https://github.com/TommyLemon/Android-ZBLibrary) - Android MVP 快速开发框架，做国内 「Demo最全面」「注释最详细」「使用最简单」「代码最严谨」的 Android 开源 UI 框架
-- [AndroidProject (800+)](https://github.com/getActivity/AndroidProject) - An advanced template project
+- [Android-ZBLibrary (4000+)](https://github.com/TommyLemon/Android-ZBLibrary) - Android MVP 快速开发框架，做国内 「Demo最全面」「注释最详细」「使用最简单」「代码最严谨」的 Android 开源 UI 框架
+    - [AndroidProject (2000+)](https://github.com/getActivity/AndroidProject) - An advanced template project (MVP + Multi-module)
 
 ##### Core
 
@@ -387,14 +390,17 @@ My Github Stars
 - [Meituan-Dianping / walle (4000+)](https://github.com/Meituan-Dianping/walle) - Android Signature V2 Scheme 签名下的新一代渠道包打包神器
   - [packer-ng-plugin (4000+)](https://github.com/mcxiaoke/packer-ng-plugin) - 下一代 Android 打包工具，100 个渠道包只需要 10 秒钟
 - [dexcount-gradle-plugin (3000+)](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build.
+- [gradle_plugin_android_aspectjx (2000+)](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) - A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.
 - [facebook / screenshot-tests-for-android (1500+)](https://github.com/facebook/screenshot-tests-for-android) - Generate fast deterministic screenshots during Android instrumentation tests
   - [Shot (400+)](https://github.com/Karumi/Shot) - Gradle plugin developed to facilitate screenshot testing for Android
 - [android-maven-gradle-plugin (1000+)](https://github.com/dcendents/android-maven-gradle-plugin) - Modification to the standard Maven plugin to be compatible with android-library projects (aar).
+- [easylauncher-gradle-plugin (500+)](https://github.com/akaita/easylauncher-gradle-plugin) - Add a different ribbon to each of your Android app variants using this gradle plugin.
+- [DroidAssist (500+)](https://github.com/didi/DroidAssist) - A lightweight Android Studio gradle plugin based on Javassist for editing bytecode in Android.
 - [MethodTraceMan (300+)](https://github.com/zhengcx/MethodTraceMan) - 用于快速找到高耗时方法，定位解决Android App卡顿问题。
 - [thinApkFile (20+)](https://github.com/skyinu/thinApkFile) - a gradle plugin to remove useless file in apk to reduce apk size
 - [library-analysis](https://github.com/znyang/library-analysis) - 分析各依赖库文件的大小
 
-##### Android Studio Plugins
+##### IDE Plugins
 
 - [IntelliJ-IDEA-Tutorial (5000+)](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
 - [alibaba / freeline (4000+)](https://github.com/alibaba/freeline) - A super fast build tool for Android, an alternative to Instant Run
@@ -404,7 +410,6 @@ My Github Stars
 - [intellij-rainbow-brackets (2000+)](https://github.com/izhangzhihao/intellij-rainbow-brackets) - Rainbow Brackets / Rainbow Parentheses for IntelliJ based IDEs
 - [ECTranslation (1800+)](https://github.com/Skykai521/ECTranslation) - 翻译插件
   - [TranslationPlugin (1000+)](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for JetBrains IDE/Android Studio
-- [easylauncher-gradle-plugin (500+)](https://github.com/akaita/easylauncher-gradle-plugin) - Add a different ribbon to each of your Android app variants using this gradle plugin.
 - [idea-multimarkdown (500+)](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
 - [+ android-drawable-importer-intellij-plugin (500+)](https://github.com/winterDroid/android-drawable-importer-intellij-plugin) - Adds an option to IntelliJ to import drawables in different resolutions from AndroidIcons
 - [+ eventbus3-intellij-plugin (100+)](https://github.com/likfe/eventbus3-intellij-plugin)
@@ -420,10 +425,11 @@ My Github Stars
   - [dex2jar (6000+)](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
   - [google / android-classyshark (5000+)](https://github.com/google/android-classyshark) - Analyse 3rd party SDKs in your Android app (APK)
   - [apkstudio (1000+)](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
-- [stf (9000+)](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
+- [stf (10000+)](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
   - [androidScreenShareAndControl (500+)](https://github.com/android-notes/androidScreenShareAndControl) - Android 屏幕共享及远程控制
   - [DeviceControl (100+)](https://github.com/amartinz/DeviceControl) - Device Control is an app to control several features of your device as well as some nice extra features.
-- [XposedInstaller (2200+)](https://github.com/rovo89/XposedInstaller) - Xposed 框架
+- [+ Auto.js (5000+)](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access. 安卓平台上的 JavaScript 自动化工具。
+- [XposedInstaller (3000+)](https://github.com/rovo89/XposedInstaller) - Xposed 框架 https://repo.xposed.info/
 - [ruby / rake (1000+)](https://github.com/ruby/rake) - A make-like build utility for Ruby. (Run unit test)
 
 #### Kotlin
@@ -438,12 +444,12 @@ My Github Stars
 
 ##### Learning
 
-- [from-java-to-kotlin (4000+)](https://github.com/MindorksOpenSource/from-java-to-kotlin) - Your Cheat Sheet For Java To Kotlin
-- [+ Design-Patterns-In-Kotlin (3000+)](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
+- [+ from-java-to-kotlin (4000+)](https://github.com/MindorksOpenSource/from-java-to-kotlin) - Your Cheat Sheet For Java To Kotlin
+- [Design-Patterns-In-Kotlin (3000+)](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
+- [+ KotlinMvp (3000+)](https://github.com/git-xuhao/KotlinMvp) - 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目
 - [Kotlin / kotlin-koans (2500+)](https://github.com/Kotlin/kotlin-koans) - Kotlin workshop
 - [Kotlin / kotlin-examples (2000+)](https://github.com/Kotlin/kotlin-examples) - Various examples for Kotlin
-- [KotlinMvp (2000+)](https://github.com/git-xuhao/KotlinMvp) - 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目，简约风格及详细注释，欢迎 star or fork！
-- [android-kotlin-fundamentals-apps (200+)](https://github.com/google-developer-training/android-kotlin-fundamentals-apps) - android-kotlin-fundamentals-apps
+- [google-developer-training / android-kotlin-fundamentals-apps (200+)](https://github.com/google-developer-training/android-kotlin-fundamentals-apps) - Android Fundamentals in Kotlin Solution Apps
 
 ##### Tools
 
@@ -469,6 +475,7 @@ My Github Stars
 - [testing-samples (5000+)](https://github.com/android/testing-samples) - A collection of samples demonstrating different frameworks and techniques for automated testing
 - [views-widgets-samples (500+)](https://github.com/android/views-widgets-samples) - Multiple samples showing the best practices in views-widgets on Android.
 - [user-interface-samples (500+)](https://github.com/android/user-interface-samples) - Multiple samples showing the best practices in the user interface on Android. Shortcuts etc.
+- [media-samples (100+)](https://github.com/android/media-samples) - Multiple samples showing the best practices in media APIs on Android (audio, video, etc.).
 
 ##### Developers' Samples
 
@@ -478,30 +485,28 @@ My Github Stars
   - [RxJava2-Operators-Magician (500+)](https://github.com/KunMinX/RxJava2-Operators-Magician) - 你用不惯 RxJava，只因缺了这把钥匙
 - [android-mvp-architecture (4000+)](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
 - [animate (3000+)](https://github.com/hitherejoe/animate) - An application demoing meaningful motion on Android
-- [guolindev / giffun (2000+)](https://github.com/guolindev/giffun) - 一款开源的 GIF 在线分享App，乐趣就要和世界分享。
-  - [guolindev / coolweatherjetpack (200+)](https://github.com/guolindev/coolweatherjetpack) - 酷欧天气的 Jetpack 版本实现，采用了MVVM架构。
 - [LifeHelper (2000+)](https://github.com/yangchong211/LifeHelper) - 组件化综合案例。架构模式：组件化+MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯 bugly
-- [android-showcase (2000+)](https://github.com/igorwojda/android-showcase) -Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
+- [+ android-showcase (2000+)](https://github.com/igorwojda/android-showcase) - Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
 - [Jetpack-MVVM-Best-Practice (1000+)](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - Jetpack MVVM 最佳实践
 - [MaterialDesignDemo (1000+)](https://github.com/Eajy/MaterialDesignDemo) - A beautiful app designed with Material Design.
-- [+ Demos (1000+)](https://github.com/alidili/Demos) - Demo合集 [http://www.yangle.tech](http://www.yangle.tech/)
-- [PaoNet (300+)](https://github.com/ditclear/PaoNet) - MVVM+RxJava2+AspectJ，泡网第三方客户端
+- [+ Demos (1000+)](https://github.com/alidili/Demos) - Demo 合集
 - [+ Android-references (100+)](https://github.com/Shouheng88/Android-references) - Android 示例程序：MVP, MVVM, 组件化, AndroidX, ARouter, RxJava, EventBus, ButterKnife, 视频播放, 视频直播, 网络访问, 布局和控件整理等
 - [BiliBili (100+)](https://github.com/lingxiaoplus/BiliBili) - 基于 ijkplayer+rxjava+retrofit，组件化思想，实现一个仿 B 站的 Android 客户端
 - [android-jetpack-demo (100+)](https://github.com/zhiwei1990/android-jetpack-demo) - 快速入门 Android Jetpack 以及相关 Kotlin、RxJava、MVVM 等主流技术，独立构架 App 的基础技能
-- [MVPFrame](https://github.com/Lrony/MVPFrame) - Android MVPFrame Simple Demo, and Recycler lazy load data
 - [simple-phone](https://github.com/arekolek/simple-phone) - Bare minimum implementation of an Android Phone app.
-- [weatherview](https://github.com/ForgetAll/weatherview) - A practice for kotlin.
 
 ##### Apps
 
 - [Signal-Android (10000+)](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [kickstarter / android-oss (5000+)](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere.
 - [tachiyomi (5000+)](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android
+- [guolindev / giffun (2000+)](https://github.com/guolindev/giffun) - 一款开源的 GIF 在线分享App，乐趣就要和世界分享。
+    - [guolindev / coolweatherjetpack (200+)](https://github.com/guolindev/coolweatherjetpack) - 酷欧天气的 Jetpack 版本实现，采用了MVVM架构。
 - [PaperPlane (1000+)](https://github.com/TonnyL/PaperPlane) - An Android reading app, including articles from Zhihu Daily, Guokr Handpick and Douban Moment. (Kotlin)
     - [Leisure (500+)](https://github.com/MummyDing/Leisure) - Leisure is an Android App containing Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban Books
 - [Reading (300+)](https://github.com/Hankkin/Reading) - Reading 是一款基于 WanAndroid OpenApi 开发的阅读类工具
 - [Makeup (300+)](https://github.com/DingProg/Makeup) - 让你的“女神”逆袭，代码撸彩妆（画妆）
+- [PaoNet (300+)](https://github.com/ditclear/PaoNet) - MVVM+RxJava2+AspectJ，泡网第三方客户端
 - [DogCamera (200+)](https://github.com/windrunnerlihuan/DogCamera) - 狗头相机，抖音相机功能 app
 
 #### Others
@@ -770,6 +775,7 @@ My Github Stars
 - [JustAuth (5000+)](https://github.com/justauth/JustAuth) - 整合第三方登录的开源库
 - [ChinaMobilePhoneNumberRegex (3000+)](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) - 一组匹配中国大陆手机号码的正则表达式。
 - [mp4parser (2000+)](https://github.com/sannies/mp4parser) - A Java API to read, write and create MP4 files
+- [BlindWatermark (100+)](https://github.com/ww23/BlindWatermark) - Java 盲水印
 
 #### Developer Tools
 
@@ -789,6 +795,7 @@ My Github Stars
 - [tensorflow (130000+)](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
     - [tensorflow-zh (10000+)](https://github.com/jikexueyuanwiki/tensorflow-zh) - 谷歌全新开源人工智能系统 TensorFlow 官方文档中文版
 - [practicalAI (20000+)](https://github.com/practicalAI/practicalAI) - A practical approach to learning machine learning.
+- [LearnPython (5000+)](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习 Python
 
 #### Tools
 
@@ -819,14 +826,17 @@ My Github Stars
 
 #### Core
 
-- [CyC2018 / CS-Notes (50000+)](https://github.com/CyC2018/CS-Notes) - Computer Science Learning Notes
-- [java-design-patterns (45000+)](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+- [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱树
+- [CyC2018 / CS-Notes (90000+)](https://github.com/CyC2018/CS-Notes) - Computer Science Learning Notes
+- [the-art-of-command-line (60000+)](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+    - [pure-bash-bible (20000+)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+    - [bash-guide (10000+)](https://github.com/Idnan/bash-guide) - A guide to learn bash
+- [java-design-patterns (50000+)](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+    - [DesignPattern (1000+)](https://github.com/youlookwhat/DesignPattern) - Java 设计模式归纳 (观察者、工厂、单例、策略、适配器、命令、装饰者、外观、模板方法、状态).
 - [English-level-up-tips-for-Chinese (20000+)](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 可能是让你受益匪浅的英语进阶指南
   - [A-Programmers-Guide-to-English (7000+)](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南。
   - [most-frequent-technology-english-words (2000+)](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [learn-regex (20000+)](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [pure-bash-bible (20000+)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
-  - [bash-guide (10000+)](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [TheAlgorithms / Java (10000+)](https://github.com/TheAlgorithms/Java) -  All Algorithms implemented in Java
 - [zju-icicles (7000+)](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
   - [REKCARC-TSC-UHT (3000+)](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略
@@ -837,6 +847,7 @@ My Github Stars
 
 #### Practice
 
+- [build-your-own-x (60000+)](https://github.com/danistefanovic/build-your-own-x) - Build your own (insert technology here)
 - [app-ideas (7000+)](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
 #### Architecture
@@ -889,10 +900,7 @@ My Github Stars
   - [shadowsocks / shadowsocks-windows (40000+)](https://github.com/shadowsocks/shadowsocks-windows) - Windows Client
   - [shadowsocks / ShadowsocksX-NG (20000+)](https://github.com/shadowsocks/ShadowsocksX-NG) - macOS GUI Client
   - [shadowsocks / shadowsocks-android (20000+)](https://github.com/shadowsocks/shadowsocks-android) - Android Client
-  - [shadowsocks / shadowsocks-qt5 (8000+)](https://github.com/shadowsocks/shadowsocks-qt5) - Linux GUI Client
-  - [Jigsaw-Code / outline-client (5000+)](https://github.com/Jigsaw-Code/outline-client) - [iOS Client](https://apps.apple.com/app/outline-app/id1356178125)
   - [shadowsocks / openwrt-shadowsocks (3000+)](https://github.com/shadowsocks/openwrt-shadowsocks) - Shadowsocks-libev for OpenWrt/LEDE.
-    - [openwrt-fanqiang (3000+)](https://github.com/softwaredownload/openwrt-fanqiang) - 路由器翻墙、科学上网教程
 - [v2ray / v2ray-core (20000+)](https://github.com/v2ray/v2ray-core) - https://www.v2ray.com/
   - [Linux-NetSpeed (1000+)](https://github.com/chiakge/Linux-NetSpeed) - VPS 加速
   - [V2rayU (5000+)](https://github.com/yanue/V2rayU) - GUI for v2ray-core on macOS
@@ -902,8 +910,8 @@ My Github Stars
 - [googlehosts / hosts (15000+)](https://github.com/googlehosts/hosts) - GoogleHosts
   - [Go-Hosts (300+)](https://github.com/Lerist/Go-Hosts) - Go Hosts for Android.
 - [+ brook (10000+)](https://github.com/txthinking/brook) - Brook is a cross-platform proxy/vpn software
-- [+ jsproxy (6000+)](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
-- [+ gost (3000+)](https://github.com/ginuerzh/gost) - GO Simple Tunnel
+- [+ jsproxy (7000+)](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
+- [+ gost (5000+)](https://github.com/ginuerzh/gost) - GO Simple Tunnel
 
 ##### Others
 
@@ -924,14 +932,13 @@ My Github Stars
 - [FreeRDP (2000+)](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [auxpi (1000+)](https://github.com/aimerforreimu/auxpi) - 集合多家 API 的新一代**图床**
 - [Shuang (500+)](https://github.com/BlueSky-07/Shuang) - 双拼练习 https://api.ihint.me/shuang
-- [GitHubUsersWallOnREADME](https://github.com/AdlerED/GitHubUsersWallOnREADME) - 自动将GitHub用户批量渲染生成为README中的用户名&&头像墙
+- [GitHubUsersWallOnREADME](https://github.com/AdlerED/GitHubUsersWallOnREADME) - 自动将 GitHub 用户批量渲染生成为 README 中的用户名和头像墙
 
 #### Terminal
 
 ##### Curated List
 
-- [the-art-of-command-line (60000+)](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [linux-command (10000+)](https://github.com/jaywcjlove/linux-command) - Linux 命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
+- [linux-command (10000+)](https://github.com/jaywcjlove/linux-command) - Linux 命令大全搜索工具。https://git.io/linux
 - [terminals-are-sexy (8000+)](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
 ##### Tools & Plugin
@@ -944,6 +951,7 @@ My Github Stars
   - [+ nushell (5000+)](https://github.com/nushell/nushell) - A modern shell written in Rust
 - [thefuck (50000+)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [neovim (30000+)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+    - [vim-quickui (100+)](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 !!
 - [homebrew-cask (15000+)](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries
 - [cheat.sh (15000+)](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [pandoc (14000+)](https://github.com/jgm/pandoc) - Universal markup converter
@@ -951,6 +959,7 @@ My Github Stars
 - [diff-so-fancy (10000+)](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs.
 - [scrcpy (9000+)](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [scoop (6000+)](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+- [ffsend (5000+)](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [ranger (4000+)](https://github.com/ranger/ranger) - A VIM-inspired filemanager
 - [git-fire (3000+)](https://github.com/qw3rtman/git-fire) - Save Your Code in an Emergency
 - [readme-md-generator (2000+)](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files
@@ -959,7 +968,7 @@ My Github Stars
 - [onefetch (2000+)](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [asar (1500+)](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [yank (1000+)](https://github.com/mptre/yank) - Yank terminal output to clipboard
-- [- NSudo (500+)](https://github.com/M2Team/NSudo) - A Powerful System Administration Tool for Windows
+- [NSudo (500+)](https://github.com/M2Team/NSudo) - A Powerful System Administration Tool for Windows
 - [splash-cli (200+)](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash
 - [yddict (200+)](https://github.com/kenshinji/yddict) - 一个命令行查单词的工具
 - [qrgo (100+)](https://github.com/elsesiy/qrgo) - Fast & simple service to generate QR codes from your CLI.
@@ -1011,6 +1020,7 @@ My Github Stars
   - [awesome-indie (100+)](https://github.com/josephchang10/awesome-indie) - awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理
   - [fin-circle](https://github.com/hapiman/fin-circle) - 探讨技术、金融、赚钱的小圈子！
 - [chinese-copywriting-guidelines (7000+)](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案如何排版
+- [Workouts](https://github.com/evmn/Workouts) - 徒手健身
 
 #### Uncategorized
 

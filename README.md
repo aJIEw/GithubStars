@@ -102,6 +102,7 @@ My Github Stars
 - [+ Linkage-RecyclerView (700+)](https://github.com/KunMinX/Linkage-RecyclerView) - 即使不用饿了么订餐，也请务必收藏好该库！🔥 一行代码即可接入，二级联动订餐列表。
 - [+ NestedTouchScrollingLayout (500+)](https://github.com/JarvisGG/NestedTouchScrollingLayout) - 处理子 View，父 View 嵌套滚动
 - [NestedRecyclerView (200+)](https://github.com/JasonGaoH/NestedRecyclerView) - Copied the homepage of taobao and jd.com, and realized the TAB ceiling effect through two-layer nesting RecyclerView.
+    - [NestedScrollingParent2Layout (<100)](https://github.com/hufeiyang/NestedScrollingParent2Layout) - 滑动嵌套通用解决方案：提供常见三种RecyclerView滑动嵌套布局、也可自定义。
 - [async-expandable-list (200+)](https://github.com/Ericliu001/async-expandable-list) - CollectionView and AsyncExpandableListView.
 
 ##### Core
@@ -318,14 +319,10 @@ My Github Stars
 
 ##### Plugin Libs
 
-- [alibaba / atlas (7000+)](https://github.com/alibaba/atlas) - A powerful Android Dynamic Component Framework.
-- [didi / VirtualAPK (7000+)](https://github.com/didi/VirtualAPK) - A powerful and lightweight plugin framework for Android
+- [alibaba / atlas (8000+)](https://github.com/alibaba/atlas) - A powerful Android Dynamic Component Framework.
 - [DroidPlugin (6000+)](https://github.com/DroidPluginTeam/DroidPlugin) - A plugin framework on android. Run any third-party apk without installation, modification or repackage.
   - [understand-plugin-framework (2000+)](https://github.com/tiann/understand-plugin-framework) - demos to help understand Droid plugin framwork
-- [Qihoo360 / RePlugin (5000+)](https://github.com/Qihoo360/RePlugin) - A flexible, stable, easy-to-use Android Plug-in Framework
-- [Small (5000+)](https://github.com/wequick/Small) - A small framework to split app into small parts
 - [Tencent / Shadow (3000+)](https://github.com/Tencent/Shadow) - 零反射全动态 Android 插件框架
-- [Android-Plugin-Framework (1500+)](https://github.com/limpoxe/Android-Plugin-Framework) - Android 插件框架，免安装运行插件 APK ，支持独立插件和非独立插件
 - [ManbangGroup / Phantom (1000+)](https://github.com/ManbangGroup/Phantom) - 零 Hook Android 插件化方案
 
 ##### Componentization Libs
@@ -334,7 +331,7 @@ My Github Stars
   - [luckybilly / AndroidComponentizeLibs (500+)](https://github.com/luckybilly/AndroidComponentizeLibs) - 多个维度对比一些有代表性的开源 Android 组件化开发方案
 - [alibaba / ARouter (10000+)](https://github.com/alibaba/ARouter) - A framework for assisting in the renovation of Android componentization
 - [luojilab / DDComponentForAndroid (3000+)](https://github.com/luojilab/DDComponentForAndroid) - 一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能
-- [luckybilly / CC (3000+)](https://github.com/luckybilly/CC) - 业界首个支持渐进式组件化改造的Android组件化开源框架，支持跨进程调用。
+- [+ luckybilly / CC (3000+)](https://github.com/luckybilly/CC) - 业界首个支持渐进式组件化改造的Android组件化开源框架，支持跨进程调用。
 
 ##### Hotfix Libs
 
@@ -351,19 +348,17 @@ My Github Stars
 ##### Architecture
 
 - [MVPArms (8000+)](https://github.com/JessYanCoding/MVPArms) - A common architecture for Android applications that are developped based on MVP, integrated many open source projects, to make your develope quicker and easier. (一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架).
-  - [MVVMHabit (4000+)](https://github.com/goldze/MVVMHabit) - 基于谷歌最新 AAC 架构，MVVM设计模式的一套快速开发库，整合 Okhttp+RxJava+Retrofit+Glide 等主流模块，满足日常开发需求。
-  - [MVVMLight (1000+)](https://github.com/Kelin-Hong/MVVMLight) - A toolkit help to build Android MVVM Application
-  - [MVPArt (500+)](https://github.com/JessYanCoding/MVPArt) - A new Android MVP architecture (此框架旨在解决传统 MVP 类和接口太多, 并且 Presenter 和 View 通过接口通信过于繁琐, 重用 Presenter 代价太大等问题).
-- [Android-ZBLibrary (4000+)](https://github.com/TommyLemon/Android-ZBLibrary) - Android MVP 快速开发框架，做国内 「Demo最全面」「注释最详细」「使用最简单」「代码最严谨」的 Android 开源 UI 框架
-    - [AndroidProject (2000+)](https://github.com/getActivity/AndroidProject) - An advanced template project (MVP + Multi-module)
+  - [Android-ZBLibrary (4000+)](https://github.com/TommyLemon/Android-ZBLibrary) - Android MVP 快速开发框架，做国内 「Demo最全面」「注释最详细」「使用最简单」「代码最严谨」的 Android 开源 UI 框架
+  - [AndroidProject (2000+)](https://github.com/getActivity/AndroidProject) - An advanced template project (MVP + Multi-module)
+- [MVVMHabit (4000+)](https://github.com/goldze/MVVMHabit) - 基于谷歌最新 AAC 架构，MVVM设计模式的一套快速开发库，整合 Okhttp+RxJava+Retrofit+Glide 等主流模块，满足日常开发需求。
 
 ##### Core
 
-- [square / leakcanary (21000+)](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
+- [square / leakcanary (25000+)](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
 - [facebook / stetho (10000+)](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
     - [Tencent / GT (4000+)](https://github.com/Tencent/GT) - GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere.
 - [logger (10000+)](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for android.
-  - [JakeWharton / timber (6000+)](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+  - [JakeWharton / timber (8000+)](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
   - [Meituan-Dianping / Logan (1000+)](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform (Android/iOS).
   - [logback-android (600+)](https://github.com/tony19/logback-android) - The reliable, generic, fast and flexible logging framework for Android
 - [Android-Debug-Database (5000+)](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
@@ -443,18 +438,18 @@ My Github Stars
 
 - [+ from-java-to-kotlin (4000+)](https://github.com/MindorksOpenSource/from-java-to-kotlin) - Your Cheat Sheet For Java To Kotlin
 - [Design-Patterns-In-Kotlin (3000+)](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
-- [+ KotlinMvp (3000+)](https://github.com/git-xuhao/KotlinMvp) - 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目
 - [Kotlin / kotlin-koans (2500+)](https://github.com/Kotlin/kotlin-koans) - Kotlin workshop
-- [Kotlin / kotlin-examples (2000+)](https://github.com/Kotlin/kotlin-examples) - Various examples for Kotlin
 - [google-developer-training / android-kotlin-fundamentals-apps (200+)](https://github.com/google-developer-training/android-kotlin-fundamentals-apps) - Android Fundamentals in Kotlin Solution Apps
 
 ##### Tools
 
 ###### Core
 
-- [Kotlin / kotlinx.coroutines (6000+)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
+- [Kotlin / kotlinx.coroutines (7000+)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [koin (5000+)](https://github.com/InsertKoinIO/koin) - a pragmatic lightweight dependency injection framework for Kotlin
+    - [Kodein-DI (2000+)](https://github.com/Kodein-Framework/Kodein-DI) - Painless Kotlin Dependency Injection
 - [MvRx (3000+)](https://github.com/airbnb/MvRx) - MvRx: Android on Autopilot.（Airbnb 的开发框架，使用类似 React 的开发方式，通过 state 更新视图，ViewModel 监听 state 变化然后通知 View 去更新，通过 Async 执行异步任务。）
+    - [roxie (300+)](https://github.com/ww-tech/roxie) - Lightweight Android library for building reactive apps.
 - [sqldelight (3000+)](https://github.com/cashapp/sqldelight) - Generates typesafe Kotlin APIs from SQL
 - [fuel (3000+)](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android
 - [assent (500+)](https://github.com/afollestad/assent) - Android Runtime Permissions made easy and compact, for Kotlin and AndroidX.
@@ -462,6 +457,7 @@ My Github Stars
 
 ###### UI
 
+- [coil (3000+)](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
 - [CircularProgressBar (1000+)](https://github.com/lopspower/CircularProgressBar) - Create circular ProgressBar in Android.
 - [SuperBottomSheet (300+)](https://github.com/andrefrsousa/SuperBottomSheet) - Android native BottomSheet on steroids.
 - [EasyValidation (200+)](https://github.com/wajahatkarim3/EasyValidation) - A text and input validation library in Kotlin for Android.
@@ -496,14 +492,16 @@ My Github Stars
   - [RxJavaSamples (4000+)](https://github.com/rengwuxian/RxJavaSamples) - RxJava 2 和 Retrofit 结合使用的几个最常见使用方式举例
   - [RxJava2-Operators-Magician (500+)](https://github.com/KunMinX/RxJava2-Operators-Magician) - 你用不惯 RxJava，只因缺了这把钥匙
 - [android-mvp-architecture (4000+)](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
+    - [+ KotlinMvp (3000+)](https://github.com/git-xuhao/KotlinMvp) - 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目
     - [LifeHelper (2000+)](https://github.com/yangchong211/LifeHelper) - 组件化综合案例。架构模式：组件化+MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯 bugly
-    - [+ Demos (1000+)](https://github.com/alidili/Demos) - Demo 合集
     - [+ Android-references (100+)](https://github.com/Shouheng88/Android-references) - Android 示例程序：MVP, MVVM, 组件化, AndroidX, ARouter, RxJava, EventBus, ButterKnife, 视频播放, 视频直播, 网络访问, 布局和控件整理等
 - [animate (3000+)](https://github.com/hitherejoe/animate) - An application demoing meaningful motion on Android
     - [AndroidAnimationExercise (1000+)](https://github.com/REBOOTERS/AndroidAnimationExercise) - Android 动画各种实现，包括帧动画、补间动画和属性动画的总结分享
 - [+ android-showcase (2000+)](https://github.com/igorwojda/android-showcase) - Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
     - [Jetpack-MVVM-Best-Practice (1000+)](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - Jetpack MVVM 最佳实践
+    - [+ Hoo (500+)](https://github.com/mCyp/Hoo) - Android Jetpack系列组件实战案例
     - [android-jetpack-demo (100+)](https://github.com/zhiwei1990/android-jetpack-demo) - 快速入门 Android Jetpack 以及相关 Kotlin、RxJava、MVVM 等主流技术，独立构架 App 的基础技能
+- [+ Demos (1000+)](https://github.com/alidili/Demos) - Demo 合集
 - [MaterialDesignDemo (1000+)](https://github.com/Eajy/MaterialDesignDemo) - A beautiful app designed with Material Design.
 - [guolindev / ScopedStorageDemo](https://github.com/guolindev/ScopedStorageDemo) - A demo to show how scoped storage worked on Android 10 and backward compatible with previous versions.
 
@@ -640,21 +638,25 @@ My Github Stars
 - [+ react-native-vector-icons (10000+)](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.
 - [react-native-community / react-native-maps (8000+)](https://github.com/react-native-community/react-native-maps) - React Native Mapview component for iOS + Android (Google Map)
   - [react-native-amap3d (600+)](https://github.com/qiuxiang/react-native-amap3d) - react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS
-  - [react-native-baidumap-sdk (200+)](https://github.com/qiuxiang/react-native-baidumap-sdk) - React Native BaiduMap SDK for Android + iOS
 - [react-native-swiper (6000+)](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
     - [react-native-snap-carousel (5000+)](https://github.com/archriss/react-native-snap-carousel) - Swiper/carousel component for React Native.
-- [react-native-splash-screen (3000+)](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
-- [react-native-image-crop-picker (2000+)](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for camera, configurable compression, multiple images and cropping
+- [WatermelonDB (6000+)](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps.
 - [react-native-scrollable-tab-view (5000+)](https://github.com/ptomasroos/react-native-scrollable-tab-view) - Tabbed navigation that you can swipe between, each tab can have its own ScrollView and maintain its own scroll position between swipes. Pleasantly animated. Customizable tab bar.
+    - [react-native-head-tab-view (<100)](https://github.com/zyslife/react-native-head-tab-view) - 整体上下滑动的标签页
 - [react-native-svg (4000+)](https://github.com/react-native-community/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
     - [react-native-svg-animated-linear-gradient (300+)](https://github.com/FullstackStation/react-native-svg-animated-linear-gradient) - A wrap SVG component for animated linear gradient
 - [react-native-video (4000+)](https://github.com/react-native-community/react-native-video) - A \<Video/> component for react-native
 - [react-native-gesture-handler (3000+)](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
+- [react-native-splash-screen (3000+)](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
+- [react-native-image-crop-picker (2000+)](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for camera, configurable compression, multiple images and cropping
+- [react-native-render-html (1000+)](https://github.com/archriss/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views.
 - [alibaba / GCanvas (1000+)](https://github.com/alibaba/GCanvas) - A lightweight cross-platform graphics rendering engine.
 - [react-native-largelist (1000)](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native.
+    - [+ react-native-refresh-list-view (500+)](https://github.com/huanxsd/react-native-refresh-list-view) - 基于FlatList的上拉、下拉刷新组件
 - [react-native-modal-dropdown (500+)](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
   - [react-native-material-dropdown (500+)](https://github.com/n4kz/react-native-material-dropdown) - Material dropdown with consistent behaviour on iOS and Android
 - [react-native-simple-radio-button (300+)](https://github.com/moschan/react-native-simple-radio-button) - Simple and handy animated radio button component for React Native
+- [react-native-collapsing-toolbar (200+)](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
 - [react-native-text-ticker (100+)](https://github.com/deanhet/react-native-text-ticker) - React Native Text Ticker/Marquee Component
 - [react-native-animated-hide-view (<10)](https://github.com/jkomyno/react-native-animated-hide-view) - A performant-wise and configurable react-native component that can toggle the opacity of its children, with or without animation.
 
@@ -934,6 +936,7 @@ My Github Stars
 - [brook (10000+)](https://github.com/txthinking/brook) - Brook is a cross-platform proxy/vpn software
 - [trojan (8000+)](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [+ jsproxy (7000+)](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
+    - [Workers-Proxy (500+)](https://github.com/Berkeley-Reject/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
 - [gost (5000+)](https://github.com/ginuerzh/gost) - GO Simple Tunnel
 
 ##### Others
@@ -946,6 +949,7 @@ My Github Stars
 - [py12306 (10000+)](https://github.com/pjialin/py12306) - 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 - [inlets (6000+)](https://github.com/inlets/inlets) - 将内部网络暴露到公网
 - [sourcerer-app (5000+)](https://github.com/sourcerer-io/sourcerer-app) - Sourcerer app makes a visual profile from your GitHub and git repositories.
+- [ar-cutpaste (5000+)](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [jspaint (4000+)](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [sorry (4000+)](https://github.com/xtyxtyx/sorry) - 在线制作『sorry 为所欲为』的 GIF
   - [logoly (1500+)](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
@@ -972,6 +976,7 @@ My Github Stars
 - [microsoft / terminal (50000+)](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!
   - [+ nushell (5000+)](https://github.com/nushell/nushell) - A modern shell written in Rust
 - [thefuck (50000+)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [deno (50000+)](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [neovim (30000+)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
     - [vim-quickui (100+)](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 !!
 - [scrcpy (30000+)](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -1014,7 +1019,6 @@ My Github Stars
 #### Other Tools
 
 - [github / gitignore (90000+)](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-  - [github / choosealicense.com (1500+)](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project. https://choosealicense.com
   - [github-cheat-sheet (30000+)](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [public-apis (60000+)](https://github.com/public-apis/public-apis) - A collective list of public JSON APIs for use in web development.
   - [Awesome_APIs (5000+)](https://github.com/TonnyL/Awesome_APIs) - A collection of APIs.

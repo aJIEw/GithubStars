@@ -2,13 +2,11 @@
 
 随着使用 Github 时间的增加，star 的项目也越来越多，为了以后查找方便，把自己 star 过的项目整理分类还是挺有必要的。想象一下，当需要寻找某方面资料的时候，扫一眼分类列表，正好找到类似项目时的那种窃喜。另外，我觉得这也是一种分享，如果每个人都把自己的 star 的项目分好类，其他人就可以更方便地浏览，发现他们也感兴趣的项目。
 
-我 star 的项目比较杂，有时候作者只是实现了一个很简单的功能，或者只是一个小 demo，哪怕已经不维护了，只要对我有学习意义，一般也会随手点个 star。因为我发现很多时候正是这些小项目给我提供了灵感，或者解决了困扰我很久的一个问题。
+我 star 的项目比较杂，有时候作者只是实现了一个很简单的功能，或者只是一个小 demo，哪怕已经不维护了，只要对我有学习意义，一般也会随手点个 star，因为我发现很多时候正是这些小项目给我提供了灵感，或者解决了困扰我很久的一个问题。希望来这的人都能从我 star 的项目中获得一点点东西。
 
-希望来这的人都能从我 star 的项目中获得一点点东西。
+归类 star 的项目的想法受启发自 [ChessLuo](https://github.com/ChessLuo/GitHubNotes)。
 
 最后，推荐一个 Chrome 插件 [Octo Mate](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf)，支持 Github 侧边栏查看 Markdown 文件标题大纲、添加文件下载按钮等一些实用的小功能。
-
-归类 star 的项目的想法最初来自于 [ChessLuo](https://github.com/ChessLuo/GitHubNotes)。
 
 *注：名字前带 - 表示不推荐使用，带 \+ 表示特别关注，以 star 数作为排名只是为了说明项目的热门程度。*
 
@@ -88,9 +86,8 @@
 - [SuspensionIndexBar (1500+)](https://github.com/mcxtzhang/SuspensionIndexBar) - 仿美团选择城市、微信通讯录、饿了么点餐列表的导航悬停分组索引列表。
     - [IndexableRecyclerView (1000+)](https://github.com/YoKeyword/IndexableRecyclerView) - A RecyclerView with indexable, sticky and many other features.
     - [LollipopContactsRecyclerViewFastScroller (500+)](https://github.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller) - A sample of how to mimic the way that the contacts app handles a Fast-Scroller for a RecyclerView
-- [+ NestedTouchScrollingLayout (500+)](https://github.com/JarvisGG/NestedTouchScrollingLayout) - 处理子 View，父 View 嵌套滚动
-    - [NestedRecyclerView (200+)](https://github.com/JasonGaoH/NestedRecyclerView) - Copied the homepage of taobao and jd.com, and realized the TAB ceiling effect through two-layer nesting RecyclerView.
-    - [NestedScrollingParent2Layout (<100)](https://github.com/hufeiyang/NestedScrollingParent2Layout) - 滑动嵌套通用解决方案：提供常见三种RecyclerView滑动嵌套布局、也可自定义。
+- [NestedRecyclerView (500+)](https://github.com/JasonGaoH/NestedRecyclerView) - Copied the homepage of taobao and jd.com, and realized the TAB ceiling effect through two-layer nesting RecyclerView.
+    - [NestedScrollingParent2Layout (<100)](https://github.com/hufeiyang/NestedScrollingParent2Layout) - 滑动嵌套通用解决方案：提供常见三种 RecyclerView 滑动嵌套布局、也可自定义。
 - [Decorator (500+)](https://github.com/rubensousa/Decorator) - Decorator is an Android library that helps creating composable margins and dividers in RecyclerViews
 - [async-expandable-list (200+)](https://github.com/Ericliu001/async-expandable-list) - CollectionView and AsyncExpandableListView.
 
@@ -165,6 +162,7 @@
     - [UniversalToast (500+)](https://github.com/bboylin/UniversalToast) - 简洁优雅可点击的 Toast 控件，无 BadTokenException 风险，关闭通知权限依然正常显示。
     - [CookieBar2 (400+)](https://github.com/AviranAbady/CookieBar2) - CookieBar2 is an Android library for displaying messages at the top or bottom of the screen.
     - [heads-up (100+)](https://github.com/SimenCodes/heads-up) - Heads-up notifications - Get the new heads-up notifications from Android Lollipop on any device, for free!
+- [simple-stack (1000+)](https://github.com/Zhuinden/simple-stack) - Simple Stack, a backstack library / navigation framework for simpler navigation and state management (for fragments, views, or whatevers).
 - [EnFloatingView (500+)](https://github.com/leotyndale/EnFloatingView) - 应用内悬浮窗，无需任何权限，适配大部分 ROM。
 - [+ noDrawable (500+)](https://github.com/whataa/noDrawable) - 可直接在布局文件中对任意 View 声明 drawable 属性 (DataBinding)。
     - [Android-CommonShapeButton (400+)](https://github.com/michaelxs/Android-CommonShapeButton) - To remove all shape files from the project, provide a generic shape style button.
@@ -300,6 +298,7 @@
 - [AppIconNameChanger (500+)](https://github.com/myinnos/AppIconNameChanger) - Library to change Android launcher App Icon and App Name programmatically!
 - [XPush (200+)](https://github.com/xuexiangjys/XPush) - 🚀一个轻量级、可插拔的 Android 消息推送框架。
 - [VirtualLocation (100+)](https://github.com/pengliangAndroid/VirtualLocation) - 免 Root 虚拟定位
+- [Android_CN_OAID (100+)](https://github.com/gzu-liyujiang/Android_CN_OAID) - Android 10 + 适用于国内各大手机厂商的开放匿名设备标识（OAID），若不支持OAID则须自行生成一个全局唯一标识（GUID）
 - [+ AndroidZip](https://github.com/Leo0618/AndroidZip) - Android 端 zip 压缩与解压，支持使用密码对文件进行压缩以及解压操作
 - [QRGenerator](https://github.com/androidmads/QRGenerator) - QR Generator Library
 - [RaisePriorityHack](https://github.com/easoll/RaisePriorityHack) - A new way to raise you android process priority on all android version
@@ -323,7 +322,6 @@
 #### Hotfix Libs
 
 - [Tencent / tinker (12000+)](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
-- [alibaba / AndFix (6000+)](https://github.com/alibaba/AndFix) - AndFix is a library that offer hot-fix for Android App.
 
 ### Developer Tools
 
@@ -358,7 +356,6 @@
     - [SpiderMan (500+)](https://github.com/simplepeng/SpiderMan) - 崩溃日志手机端显示
 - [Tencent / matrix (3000+)](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
   - [QPM (200)](https://github.com/ZhuoKeTeam/QPM) - 质量性能监控组件，方便查看当前 APP 的性能。
-- [+ dryrun (3000+)](https://github.com/cesarferreira/dryrun) - Try the demo project of any Android Library
 - [+ chucker (2000+)](https://github.com/ChuckerTeam/chucker) - An HTTP inspector for Android & OkHTTP
 - [alipay / SoloPi (2000+)](https://github.com/alipay/SoloPi) - Soloπ 自动化测试工具
 - [+ didi / booster (2000+)](https://github.com/didi/booster) - Optimizer for mobile applications
@@ -366,6 +363,7 @@
 - [android-hidden-api (2000+)](https://github.com/anggrayudi/android-hidden-api) - A library that provides access to Android hidden APIs and internal resources.
 - [adb-event-mirror (1000+)](https://github.com/JakeWharton/adb-event-mirror) - Mirror the touch/key/button events of one device onto one or more other devices in real-time
 - [Apkparser](https://github.com/coding-dream/Apkparser) - 主流 app 技术选型分析 & PlantUML 生成工具
+- [guolindev / Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
 
 #### Gradle Plugins
 
@@ -381,7 +379,8 @@
 - [easylauncher-gradle-plugin (500+)](https://github.com/akaita/easylauncher-gradle-plugin) - Add a different ribbon to each of your Android app variants using this gradle plugin.
 - [DroidAssist (500+)](https://github.com/didi/DroidAssist) - A lightweight Android Studio gradle plugin based on Javassist for editing bytecode in Android.
 - [MethodTraceMan (300+)](https://github.com/zhengcx/MethodTraceMan) - 用于快速找到高耗时方法，定位解决 Android App 卡顿问题。
-- [thinApkFile (20+)](https://github.com/skyinu/thinApkFile) - a gradle plugin to remove useless file in apk to reduce apk size
+- [bye-bye-jetifier](https://github.com/dipien/bye-bye-jetifier) - Gradle Plugin to verify if you can keep Android Jetifier disabled
+- [thinApkFile](https://github.com/skyinu/thinApkFile) - a gradle plugin to remove useless file in apk to reduce apk size
 - [library-analysis](https://github.com/znyang/library-analysis) - 分析各依赖库文件的大小
 
 #### IDE Plugins
@@ -411,6 +410,7 @@
   - [DeviceControl (100+)](https://github.com/amartinz/DeviceControl) - Device Control is an app to control several features of your device as well as some nice extra features.
 - [+ Auto.js (5000+)](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access. 安卓平台上的 JavaScript 自动化工具。
 - [XposedInstaller (3000+)](https://github.com/rovo89/XposedInstaller) - Xposed 框架 https://repo.xposed.info/
+    - [EdXposed (3000+)](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
     - [Riru (2000+)](https://github.com/RikkaApps/Riru) - Inject into zygote process
 - [ruby / rake (1000+)](https://github.com/ruby/rake) - A make-like build utility for Ruby. (Run unit test)
 - [easy-dumpsys (<100)](https://github.com/Kardelio/easy-dumpsys) - Script that outputs this adb command: `adb shell dumpsys activity <package>` in a far smaller, easier & user-friendlier way
@@ -692,7 +692,6 @@
 - [reactotron (10000+)](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [ignite (10000+)](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 - [+ react-native-debugger (6000+)](https://github.com/jhen0409/react-native-debugger) - The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
-- [add-gitignore (500+)](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
 
 #### Apps
 
@@ -722,9 +721,9 @@
 
 ## Front-End (JS)
 
-- [vue (130000+)](https://github.com/vuejs/vue)
-- [react (120000+)](https://github.com/facebook/react)
-- [angular (40000+)](https://github.com/angular/angular)
+- [vue (150000+)](https://github.com/vuejs/vue)
+- [react (150000+)](https://github.com/facebook/react)
+- [angular (50000+)](https://github.com/angular/angular)
 
 ### Curated List
 
@@ -748,6 +747,7 @@
 - [material-ui (50000+)](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [ant-design / ant-design (50000+)](https://github.com/ant-design/ant-design) - A UI Design Language
   - [didi / mand-mobile (2000+)](https://github.com/didi/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.
+- [reveal.js (50000+)](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [mermaid (25000+)](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [alibaba / ice (10000+)](https://github.com/alibaba/ice) - 🚀 飞冰 - 让前端开发简单而友好，海量可复用物料，配套桌面工具极速构建前端应用，效率提升 100%
 - [alibaba / rax (5000+)](https://github.com/alibaba/rax) - The fastest way to build cross-container application.
@@ -779,6 +779,7 @@
 
 - [electron (80000+)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
     - [proton-native (10000+)](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps [https://proton-native.js.org](https://proton-native.js.org/)
+    - [electron-playground (500+)](https://github.com/tal-tech/electron-playground) - This is a project to quickly experiment and learn electron related APIs
 - [deno (50000+)](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [json-server (40000+)](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds
 - [facebook / jest (30000+)](https://github.com/facebook/jest) - Delightful JavaScript Testing.
@@ -839,6 +840,7 @@
 
 ### Tools
 
+- [pytorch (40000+)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [scrapy / scrapy (35000+)](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [funNLP (10000+)](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、各种词库等
 - [chinese-xinhua (5000+)](https://github.com/pwxcoo/chinese-xinhua) - 📙 中华新华字典数据库。包括歇后语，成语，词语，汉字。
@@ -888,16 +890,16 @@
 
 ### Practice
 
-- [build-your-own-x (60000+)](https://github.com/danistefanovic/build-your-own-x) - Build your own (insert technology here)
-- [app-ideas (7000+)](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
+- [build-your-own-x (100000+)](https://github.com/danistefanovic/build-your-own-x) - Build your own (insert technology here)
+- [app-ideas (30000+)](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
 ### Architecture
 
-- [architecture.of.internet-product (12000+)](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
+- [architecture.of.internet-product (20000+)](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
 
 ### Learn with fun
 
-- [LeetCodeAnimation (40000+)](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解 LeetCode 题目的思路
+- [LeetCodeAnimation (50000+)](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解 LeetCode 题目的思路
 - [githug (5000+)](https://github.com/Gazler/githug) - Git your game on!
 
 ### Tools
@@ -925,7 +927,9 @@
     - [WebPQuickLook (300+)](https://github.com/emin/WebPQuickLook) - Mac OS X QuickLook plugin for WebP image files
 - [marktext (10000+)](https://github.com/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
     - [fsnotes (3000+)](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
-- [ImageOptim (6000+)](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+- [mas (8000+)](https://github.com/mas-cli/mas) - Mac App Store command line interface
+- [ImageOptim (7000+)](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+- [Rectangle (7000+)](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [HandBrake (5000+)](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [audacity (3000+)](https://github.com/audacity/audacity) - Audio Editor
 - [MenuMeters (2500+)](https://github.com/yujitach/MenuMeters) - Mac menu network status
@@ -945,7 +949,7 @@
 
 #### Cross the GFW
 
-- [v2ray / v2ray-core (35000+)](https://github.com/v2ray/v2ray-core)
+- [v2fly ](https://github.com/v2fly)/ [v2ray-core](https://github.com/v2fly/v2ray-core)
   - [Linux-NetSpeed (2000+)](https://github.com/chiakge/Linux-NetSpeed) - VPS 加速
   - [V2rayU (10000+)](https://github.com/yanue/V2rayU) - GUI for v2ray-core on macOS
   - [v2rayN (10000+)](https://github.com/2dust/v2rayN) - GUI for v2ray-core on Windows
@@ -961,46 +965,36 @@
   - [Go-Hosts (300+)](https://github.com/Lerist/Go-Hosts) - Go Hosts for Android.
 - [trojan (12000+)](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [brook (10000+)](https://github.com/txthinking/brook) - Brook is a cross-platform proxy.
-- [+ jsproxy (7000+)](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
-    - [Workers-Proxy (500+)](https://github.com/Berkeley-Reject/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
+- [+ jsproxy (8000+)](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
+    - [Workers-Proxy (1000+)](https://github.com/Berkeley-Reject/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
 - [gost (5000+)](https://github.com/ginuerzh/gost) - GO Simple Tunnel
 
 #### Others
 
 - [proxyee-down (25000+)](https://github.com/proxyee-down-org/proxyee-down) - http 下载工具，基于http代理，支持多连接分块下载
-  
   - [Motrix (3000+)](https://github.com/agalwood/Motrix) - A full-featured download manager.
-  
 - [docsify (15000+)](https://github.com/docsifyjs/docsify) - A magical documentation site generator.
-
+- [+ github-readme-stats (15000+)](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes
 - [Magisk (10000+)](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
   
   - [Pix3lify](https://github.com/Magisk-Modules-Repo/Pix3lify) - A Magisk module that can bring you the Pixel UI without the need to install custom ROMs.
   - [MagiskOnEmulator](https://github.com/shakalaca/MagiskOnEmulator) - Install Magisk on Official Android Emulator
-  
 - [pan-light (10000+)](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
-
 - [UnblockNeteaseMusic (10000+)](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
-
 - [EverydayWechat (8000+)](https://github.com/sfyc23/EverydayWechat) - 微信助手
-
 - [inlets (6000+)](https://github.com/inlets/inlets) - 将内部网络暴露到公网
-
 - [ar-cutpaste (5000+)](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
-
 - [sorry (5000+)](https://github.com/xtyxtyx/sorry) - 在线制作『sorry 为所欲为』的 GIF
-
+- [+ Mindustry (5000+)](https://github.com/Anuken/Mindustry) - A sandbox tower defense game
+- [lossless-cut (5000+)](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+    - [video2x (2000+)](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler.
 - [auxpi (2000+)](https://github.com/0xDkd/auxpi) - 集合多家 API 的新一代**图床**
-
-- [github-readme-stats (2000+)](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes
-
 - [maza-ad-blocking (1500+)](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
-
 - [logoly (1500+)](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
     - [emoji-mosaic (500+)](https://github.com/ericandrewlewis/emoji-mosaic) - Turn an image into a mosaic made of emojis
     - [gavatar (50+)](https://github.com/viveketic/gavatar) - Web app to generate avatars for GitHub.
-    
 - [Shuang (500+)](https://github.com/BlueSky-07/Shuang) - 双拼练习 https://api.ihint.me/shuang
+- [running_page (500+)](https://github.com/yihong0618/running_page) - Make your own running home page
 
 ### Terminal
 
@@ -1019,22 +1013,27 @@
   - [+ nushell (5000+)](https://github.com/nushell/nushell) - A modern shell written in Rust
 - [thefuck (50000+)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [neovim (30000+)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-    - [vim-quickui (100+)](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 !!
+    - [vim-plug (20000+)](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager
+    - [nerdcommenter (4000+)](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
+        - [vim-commentary (3000+)](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
+    - [vim-quickui (500+)](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 !!
 - [scrcpy (30000+)](https://github.com/Genymobile/scrcpy) - Display and control your Android device
     - [sndcpy (500+)](https://github.com/rom1v/sndcpy) - Android audio forwarding (scrcpy, but for audio)
 - [hub (20000+)](https://github.com/github/hub) - Git helper
+    - [git-fire (3000+)](https://github.com/qw3rtman/git-fire) - Save Your Code in an Emergency
+    - [git_curate (100+)](https://github.com/matt-harvey/git_curate) - Peruse and delete git branches ergonomically
 - [cheat.sh (20000+)](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+    - [navi (10000+)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [pandoc (20000+)](https://github.com/jgm/pandoc) - Universal markup converter
 - [homebrew-cask (15000+)](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries
 - [diff-so-fancy (10000+)](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs.
 - [asciinema (10000+)](https://github.com/asciinema/asciinema) - Terminal session recorder.
 - [scoop (10000+)](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 - [ranger (10000+)](https://github.com/ranger/ranger) - A VIM-inspired filemanager
-    - [broot (5000+)](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+    - [+ broot (5000+)](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [ffsend (5000+)](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [readme-md-generator (5000+)](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files
 - [ImageMagick (5000+)](https://github.com/ImageMagick/ImageMagick) -  ImageMagick 7
-- [git-fire (3000+)](https://github.com/qw3rtman/git-fire) - Save Your Code in an Emergency
 - [screenFetch (3000+)](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
     - [onefetch (2000+)](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [lsix (2000+)](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
@@ -1046,7 +1045,7 @@
 - [splash-cli (200+)](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash
 - [yddict (200+)](https://github.com/kenshinji/yddict) - 一个命令行查单词的工具
 - [qrgo (100+)](https://github.com/elsesiy/qrgo) - Fast & simple service to generate QR codes from your CLI.
-- [git_curate (100+)](https://github.com/matt-harvey/git_curate) - Peruse and delete git branches ergonomically
+- [zsh-hist](https://github.com/marlonrichert/zsh-hist) - Hist: a Zsh plugin to edit your history from the command line
 - [GitHubUsersWallOnREADME](https://github.com/AdlerED/GitHubUsersWallOnREADME) - 自动将 GitHub 用户批量渲染生成为 README 中的用户名和头像墙
 
 ## Others
@@ -1062,7 +1061,8 @@
 
 ### Other Tools
 
-- [github / gitignore (90000+)](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [github / gitignore (100000+)](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+  - [add-gitignore (500+)](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
   - [github-cheat-sheet (30000+)](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [public-apis (60000+)](https://github.com/public-apis/public-apis) - A collective list of public JSON APIs for use in web development.
   - [Awesome_APIs (5000+)](https://github.com/TonnyL/Awesome_APIs) - A collection of APIs.
@@ -1088,11 +1088,13 @@
 ### How To
 
 - [hangzhou_house_knowledge (20000+)](https://github.com/houshanren/hangzhou_house_knowledge) - 买房购房知识分享
+    - [hangzhou_mountain (<100)](https://github.com/smasterfree/hangzhou_mountain) - 杭州登山地图收集
 - [How-To-Ask-Questions-The-Smart-Way (8000+)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 如何正确地提问，原文：[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [how-to-make-more-money (7000+)](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
+  - [awesome-indie (1000+)](https://github.com/josephchang10/awesome-indie) - awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理
   - [awesome-indie-zh (500+)](https://github.com/apachecn/awesome-indie-zh) - 独立开发/自由职业/远程工作资源列表
-  - [awesome-indie (100+)](https://github.com/josephchang10/awesome-indie) - awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理
 - [chinese-copywriting-guidelines (7000+)](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案如何排版
+    - [gender_inclusive_language (<100)](https://github.com/joelparkerhenderson/gender_inclusive_language) - Gender inclusive language.
 - [Digital-Privacy (500+)](https://github.com/No-Github/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案，外加开源信息收集（OSINT）对抗。
 - [Workouts (<100)](https://github.com/evmn/Workouts) - 徒手健身
 
@@ -1102,6 +1104,5 @@
 - [iptv (20000+)](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
 - [libra / libra (10000+)](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 - [GAAS (500+)](https://github.com/generalized-intelligence/GAAS) - Generalized Aviation: Open source autonomous aviation and drone intelligence software platform, designed for drones and VTOLs.
-- [gender_inclusive_language (<100)](https://github.com/joelparkerhenderson/gender_inclusive_language) - Gender inclusive language.
-- [hangzhou_mountain (<100)](https://github.com/smasterfree/hangzhou_mountain) - 杭州登山地图收集
+- [self-quantification](https://github.com/bestony/self-quantification) - 自我量化
 
